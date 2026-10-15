@@ -1111,7 +1111,8 @@ This is a completed conceptual model intended for further development, discussio
 ### 📥 Alternative sources for download (PDF) & reading / Альтернативные источники для скачивания (PDF) и чтения:
 * 📢 **Telegram Channel / Telegram-канал:** https://t.me/aol_physics
 * 💾 **Google Drive / Google Диск:** https://drive.google.com/drive/folders/1OVC0xUzREFqSUQBBDp2l7sJpnIj839-7?usp=drive_link
-* 🌐 **Web-version (HTML) / Веб-версия (HTML):** https://mvnaol2026.github.io/Attraction-Does-Not-Exist/Aol_Physics_Full_Book_RU
+* 🌐 **Web-version (HTML) / Веб-версия (HTML):** https://mvnaol2026.github.io/Attraction-Does-Not-Exist/Aol_Physics_Full_Book_EN и https://mvnaol2026.github.io/Attraction-Does-Not-Exist/Aol_Physics_Full_Book_RU
+
 ---
 
 ## 📖 Printed books / Печатные книги
