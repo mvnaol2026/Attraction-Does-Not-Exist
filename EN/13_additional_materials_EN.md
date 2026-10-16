@@ -216,6 +216,57 @@ The world is fundamentally unified. The division of physics into a microworld an
 
 
 
+# THE EPICYCLES OF THE QUANTUM WORLD: THE TRIUMPH OF THE CALCULATOR OVER REALITY
+
+In the second century AD, the Alexandrian astronomer Claudius Ptolemy created a masterpiece of mathematical thought—the geocentric system of the world. It possessed astonishing, filigree precision. Navigators and captains spent centuries guiding ships by Ptolemy’s tables, flawlessly determining the coordinates of stars and predicting lunar eclipses. The mathematics worked impeccably.
+
+To achieve this computational triumph, Ptolemy had to resort to colossal complication. Since the planets stubbornly refused to move around the Earth in perfect circles, mathematicians erected an entire system of virtual abstractions: epicycles (circles along which the planets rotated around invisible, imaginary points) and deferents (vast orbits displaced relative to the center).
+
+The formulas checked out. Calculations were verified by practice. Yet the real cosmic world was structured in an entirely different way. It contained neither epicycles, nor imaginary axes, nor the Earth at the center of the universe. There was only the simple, natural motion of planets along ellipses around the Sun, which was later discovered by Copernicus and Kepler, definitively throwing Ptolemy's "mathematical crutches" into the dustbin of history.
+
+Yet, ponder the sheer scale of that historical impasse: humanity implicitly relied on Ptolemy’s mathematical calculator, with its absurd circles, for nearly 1,400 years!
+
+From 140 AD, when Ptolemy penned his Almagest, right up to the early 17th century, eras changed, empires crumbled, and sea captains flawlessly plotted their courses using an erroneous map. For a millennium and a half, no one doubted Ptolemy's correctness simply because his formulas yielded the correct numbers at the output. Practice confirmed a false theory for centuries.
+
+The most astonishing thing is that even after Copernicus, the epicycles were not abandoned immediately. Copernicus proved that the Earth revolves around the Sun, but he firmly believed that planetary orbits were perfect circles. Since the actual orbits are elliptical, Copernicus had to retain a portion of Ptolemy's epicycles in his model just to make the numbers check out.
+
+The epicycles were finally demolished only by Johannes Kepler in 1609 in his work Astronomia Nova (New Astronomy). He realized that the planets move along ellipses and at varying speeds, completely purging the physics of the sky of virtual circles. From that moment on, the dogma collapsed definitively, having endured for nearly 15 centuries in total.
+Today, almost two thousand years later, theoretical physics has completely repeated Ptolemy’s tragedy.
+
+Modern quantum "officialdom" is the geocentricism of the 21st century. Academic science has constructed a phenomenal digital calculator. The formulas of quantum mechanics make it possible to calculate semiconductors, lasers, and processors, yielding astonishing precision of numbers at the output. Official science loves to boast of this "unprecedented accuracy," drumming into the layman’s mind the idea that the equations of the micro-world are ideal. But academic officialdom bashfully conceals the main secret of its mathematical kitchen: these calculations are not ideal—they are catastrophically erroneous at infinity.
+
+### Renormalization: The Ultimate Mathematical Cheating of the Century
+
+When physicists attempted to calculate the basic properties of the electron itself—its own mass and charge—taking into account the "virtual fur coat" they had invented, their vaunted mathematics simply burst. The most fundamental equations of Quantum Field Theory stubbornly yielded the same absurd result: the mass and charge of a single electron equal infinity. A theory claiming to describe the entire universe in all seriousness declared that a single electron weighs more than our entire Universe!
+
+To conceal this computational disgrace and rescue their dissertations, academic officialdom devised a procedure called renormalization.
+
+In the strict language of logic, this is called sophisticated mathematical cheating. Physicists take the calculated infinity obtained in the equations, artificially subtract another specially fine-tuned infinity from it, and manually equate the remaining "tail" to a number they previously peeked at in real laboratory experiments.
+
+This is not an ideal calculator of nature. This is a classic Ptolemaic data-fitting.    
+Ptolemy shifted the centers of his deferents and altered the sizes of epicycles manually in the exact same way to make his skewed formulas coincide with the real motion of planets in the sky. Quantum physics does exactly the same thing: all these "virtual particles with negative momentum," "electron probability clouds," and "W and Z bosons" are the epicycles of Max Planck and Werner Heisenberg. These are artificial computational loops that science has superimposed upon the void to somehow contain the computational chaos and fit the equations to the clicks of real detectors. And then, using a "renormalization eraser," they wipe out their own errors, passing off manual adjustment as a "brilliant prediction of the theory."
+
+The outstanding physicist Paul Dirac, whose equations are still used by the entire world today, openly called renormalization a "crazy mathematical trick" until the end of his days and refused to recognize Quantum Field Theory precisely because of this fraud. You cannot construct a true picture of the world on formulas that blow up into infinities without manual surgical intervention.
+
+But if the Ptolemaic impasse bamboozled humanity for fourteen centuries, a terrifying question arises: how long will the quantum epicycles endure? Will we truly have to wait another thousand years before official science admits its computational default?!
+
+The quantum absurdity, with its "renormalization erasers" and "virtual fur coats," is barely a century old. By the standards of the Ptolemaic delusion, modern official physics is only at the very beginning of its dead-end path. Yet its high priests already behave as though their formulas are eternal truth in the final instance. If we do not return material determinism to physics right now, science risks plunging into a new, digital Dark Age, where billions in budget funds will be squandered on servicing mathematical phantoms for the next ten centuries.
+
+### The Path of Aolodynamics
+
+Quantum physics is the triumph of a calculator that has learned to filigree calculate what happens at the output, but has completely lost the understanding of how it is structured in reality. Scientists have turned into priests of mathematical algorithms, servicing fabricated phantoms from their own notebooks.
+
+Yet the world, meanwhile, is structured in an entirely different way. The world is aol-based.
+It contains no void, no mystical action-at-a-distance, and no phantoms born out of nothing. The Universe is a monolithic, ultra-dense, static matrix of rigidly wedged aols, where the only process is the continuous transmission of pure mechanical pressure and vibrations.    
+In a dense aol medium, no infinities arise initially. Since the medium is real and possesses a distinct density and rigidity, any mechanical impact (quantum) has a finite, easily calculated magnitude of pressure.
+
+And just as heliocentrism once cleansed astronomy of the accumulation of Ptolemaic circles, Quantum Aolodynamics Theory (QAT) is intended to return physics to the path of strict material determinism. We do not need to zero out a working calculator—we need to remove the magic from it and give the calculated processes their true, mechanical explanation.
+
+
+
+
+
+
 # MY ATTITUDE TOWARDS PHYSICISTS
 
 I consider physicists to be very smart people. Especially modern ones. A person with average brains simply cannot grasp the fantastic picture of the world that is drummed into physicists' heads. To sincerely believe in something that cannot be imagined requires a special, highly trained intellect.
