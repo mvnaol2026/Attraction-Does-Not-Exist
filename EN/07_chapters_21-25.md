@@ -756,24 +756,24 @@ Such a question and such an answer can be repeated for a very long time—in rel
 
 Brace yourself against the experience of the visible macro-world—where everything moves only via a push—and understand: the invisible micro-world is structured in the exact same way.
 
-Fundamental Limitations of Matter
+**Fundamental Limitations of Matter**
 
 To grasp the true capabilities of matter, one must clearly realize what it is fundamentally incapable of:
 
-1.	Matter cannot spontaneously emerge or disappear.    
+**1.	Matter cannot spontaneously emerge or disappear.**    
 Its quantity in the Universe always remains absolutely invariant. Matter operates only with that which already exists. It is precisely for this reason that the official notion that electric and magnetic fields are "created out of nothing" is radically erroneous.All matter is already present. It cannot be multiplied; it can only be modified or rearranged—which, in fact, is exactly what occurs in the case of electric and magnetic phenomena. Can matter, by changing, produce another matter out of itself? Yes, it can. This is precisely what happens during chemical reactions. However, to manufacture something new out of oneself without changing in any way whatsoever is impossible.
 
-2.	Matter by itself is absolutely passive.    
+**2.	Matter by itself is absolutely passive.**    
 This is a crucial postulate of QAT. There is no internal "energy" within matter as an autonomous entity. It contains no innate enigmatic charges or mysterious fields. In and of itself, it is an inert, driven mass.Matter is capable only of moving. Not on its own, but under the influence of other matter—in the form of bodies or the aol space.
 
 
-The True Nature of "Fields," "Charges," and "Energy"
+**The True Nature of "Fields," "Charges," and "Energy"**
 
 If matter is totally passive, how then do we explain the rampage of processes around us? Everything that official science labels as charges, fields, and quantum oscillations is simply and logically explained in aol physical theory by a specific, ordered motion of micro-matter:
 
-•	"Charges" are not mystical "plus" and "minus" signs, but right- and left-handed micro-vortices made of the aols themselves.    
-•	"Fields" are a directional mechanical flow of aols (for instance, from the north pole of a magnet to the south pole, or around a conductor, induced by the rotation of the components of its atoms).    
-•	"Internal vibrations"—atoms shake at a frequency of \(10^{13}\) Hz even at absolute zero not because of innate quantum magic, but because the vibrating aol space itself continuously shakes them.
+**•	"Charges"** are not mystical "plus" and "minus" signs, but right- and left-handed micro-vortices made of the aols themselves.    
+**•	"Fields"** are a directional mechanical flow of aols (for instance, from the north pole of a magnet to the south pole, or around a conductor, induced by the rotation of the components of its atoms).    
+**•	"Internal vibrations"**—atoms shake at a frequency of **10<sup>13</sup> Hz** even at absolute zero not because of innate quantum magic, but because the vibrating aol space itself continuously shakes them.
 
 There is no such thing as abstract energy in nature. There exists an eternal Prime Mover—the aol space.    
 The primal motion of this space is caused by the constant, unbalanced pressure within the chaotic, ultra-dense medium of aols. Since the aol space is physically incapable of coming to a halt, its continuous pressure and vibrations generate all movements of passive substance.
@@ -785,7 +785,7 @@ Any process in the Universe is merely a collection of mechanical motions. And an
 
 The vibrating and pressing aol space is the very Great Unifier that academic science searches for in vain. It allows us to exist. Were it not for its omnidirectional pressing force, all substance in the Universe would instantly disintegrate into motionless, solitary aols. Matter possesses no mysterious, extrasensory capabilities—in QAT, only motion, contact, and pressure remain.
 
-Bear this firmly in mind: matter is passive, and its sole capability is to move when pushed by dominant pressure.
+Bear this firmly in mind: **matter is passive, and its sole capability is to move when pushed by dominant pressure.**
 
 
 
