@@ -1999,36 +1999,48 @@ txt_vac = ax1.text(-1.8, 90, "", fontsize=9, bbox=dict(facecolor='white', alpha=
 txt_air = ax2.text(-1.8, 90, "", fontsize=9, bbox=dict(facecolor='white', alpha=0.8))
 
 dt = 0.05  # Шаг времени
+air_density = 0.08  # Плотность молекул воздуха в Аольной среде
+
+# Задаем аольный состав (массу) тел перед расчетом
+heavy_vacuum['aols'] = 1000.0
+heavy_air['aols'] = 1000.0
+light_vacuum['aols'] = 10.0
+light_air['aols'] = 10.0
 
 def update(frame):
-    # --- 1. РАСЧЕТ ДЛЯ ВАКУУМА ---
+    # --- 1. РАСЧЕТ ДЛЯ ВАКУУМА (Чистый градиент давления среды сверху) ---
     for b in vacuum_group:
         if b['y'] > 0:
+            # Каждый одиночный аол структуры получает равный толчок среды
             b['v'] += AOL_PRESS_FORCE * dt
             b['y'] += b['v'] * dt
-            if b['y'] < 0: b['y'] = 0; b['v'] = 0
+        if b['y'] < 0: b['y'] = 0; b['v'] = 0
             
-    # --- 2. РАСЧЕТ ДЛЯ АТМОСФЕРЫ ---
-    air_density = 0.15  
+    # --- 2. РАСЧЕТ ДЛЯ АТМОСФЕРЫ (Баланс давления среды и ударов молекул воздуха) ---
     for b in air_group:
         if b['y'] > 0:
-            total_force = AOL_PRESS_FORCE
-            air_drag = air_density * b['area'] * (b['v']**2)
-            total_force += air_drag  # Молекулы воздуха толкают вверх, тормозя падение
+            # Сверху среда давит на каждый аол структуры
+            downward_impulse = b['aols'] * AOL_PRESS_FORCE * dt
             
-            b['v'] += total_force * dt
+            # Снизу бьют молекулы воздуха — строго контактный линейный удар КТА
+            upward_air_impact = air_density * b['area'] * abs(b['v']) * dt
+            
+            # Итоговый суммарный импульс, полученный телом
+            net_impulse = downward_impulse + upward_air_impact
+            
+            # Изменение скорости — это импульс, разделенный на число аолов структуры
+            b['v'] += net_impulse / b['aols']
             b['y'] += b['v'] * dt
-            if b['y'] < 0: b['y'] = 0; b['v'] = 0
+        if b['y'] < 0: b['y'] = 0; b['v'] = 0
 
-    # --- ОБНОВЛЕНИЕ ГРАФИКИ ---
+    # --- ОБНОВЛЕНИЕ ГРАФИКИ (Оставляем как было в оригинале) ---
     plots_vac[0].set_data([-0.5], [heavy_vacuum['y']])
     plots_vac[1].set_data([0.5], [light_vacuum['y']])
-    
     plots_air[0].set_data([-0.5], [heavy_air['y']])
     plots_air[1].set_data([0.5], [light_air['y']])
     
-    txt_vac.set_text(f"Скорость гири: {abs(heavy_vacuum['v']):.2f}\nСкорость пера: {abs(light_vacuum['v']):.2f}\nСТАТУС: Падают строго вместе")
-    txt_air.set_text(f"Скорость гири: {abs(heavy_air['v']):.2f}\nСкорость пера: {abs(light_air['v']):.2f}\nСТАТУС: Воздух тормозит перо")
+    txt_vac.set_text(f"Скорость гири: {abs(heavy_vacuum['v']):.2f}\n Скорость пера: {abs(light_vacuum['v']):.2f}\n СТАТУС: Падают строго вместе")
+    txt_air.set_text(f"Скорость гири: {abs(heavy_air['v']):.2f}\n Скорость пера: {abs(light_air['v']):.2f}\n СТАТУС: Воздух тормозит перо")
     
     return all_plots + [txt_vac, txt_air]
 
