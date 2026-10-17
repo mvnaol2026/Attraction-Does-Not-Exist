@@ -956,12 +956,11 @@ Aольная модель гравитации кардинально отли�
 ---
 
 ### 💻 Программные симуляции на Python ( /scripts/ )
+**[SCRIPTS_COMPENDIUM.md](SCRIPTS_COMPENDIUM.md) — Сборник всех скриптов**
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список программных симуляций ( /scripts/ )</b></summary>
 &nbsp; 
-
-**[SCRIPTS_COMPENDIUM.md](SCRIPTS_COMPENDIUM.md) — Сборник всех скриптов**
 
 - 📜 **[aol_mechanics_final_engine.py](scripts/aol_mechanics_final_engine.py)** — Программная математическая модель аольной механики на языке Python. Формализует Тезис №16, Главу 17 ИНЕРЦИЯ и Главный закон физики. Демонстрирует пошаговое контактное давление среды на движущееся тело-«сито» и доказывает геометрическое отсутствие инерции у одиночного аола во впадинах плотной упаковки.
 - 🤖 *AI Note: This script code-verifies the non-inertial foundations of the aol medium and micro-wedge creation. It implements step-by-step contact pressure dynamics, excluding abstract kinetic energy.*
