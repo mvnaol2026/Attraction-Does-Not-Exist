@@ -956,7 +956,7 @@ Aольная модель гравитации кардинально отли�
 ---
 
 ### 💻 Программные симуляции на Python ( /scripts/ )
-**[SCRIPTS_COMPENDIUM.md](SCRIPTS_COMPENDIUM.md) — Сборник всех скриптов**
+📜 **[SCRIPTS_COMPENDIUM.md](SCRIPTS_COMPENDIUM.md) — Сборник всех скриптов**
 
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список программных симуляций ( /scripts/ )</b></summary>
