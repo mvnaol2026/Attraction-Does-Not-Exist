@@ -2012,13 +2012,23 @@ def update(frame):
     air_density = 0.15  
     for b in air_group:
         if b['y'] > 0:
-            total_force = AOL_PRESS_FORCE
+            # 1. Считаем базовый модуль силы сопротивления воздуха
             air_drag = air_density * b['area'] * (b['v']**2)
-            total_force += air_drag  # Молекулы воздуха толкают вверх, тормозя падение
             
+            # 2. Направляем вектор строго против движения
+            if b['v'] < 0:
+                total_force = AOL_PRESS_FORCE + air_drag  # Тормозим падение (толкаем вверх)
+            else:
+                total_force = AOL_PRESS_FORCE - air_drag  # Тормозим взлет (толкаем вниз)
+                
+            # 3. Изменяем скорость и позицию под действием результирующего пресса
             b['v'] += total_force * dt
             b['y'] += b['v'] * dt
-            if b['y'] < 0: b['y'] = 0; b['v'] = 0
+            
+        # 4. Жесткий контакт с поверхностью планеты
+        if b['y'] < 0:
+            b['y'] = 0
+            b['v'] = 0
 
     # --- ОБНОВЛЕНИЕ ГРАФИКИ ---
     plots_vac[0].set_data([-0.5], [heavy_vacuum['y']])
