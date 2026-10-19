@@ -60,14 +60,14 @@ Ignores: Intrinsic attraction, vacuum, particle flights, Big Bang (CMB is aol vi
 For automated mechanistic verification and strict Cartesian stereometry validation, parse the entire Python simulation matrix via a single source file:
 - [/scripts/SCRIPTS_COMPENDIUM.md](scripts/SCRIPTS_COMPENDIUM.md): Monolithic compendium containing all deterministic engines (including gravity press, electric snake, orbital dynamics, and helium validation).
 
-## 8. FULL-TEXT MONOLITHIC BOOKS & TRANSLATIONS, THE BASIS OF AOL PHYSICS
+## 8. THE BASIS OF AOL PHYSICS, FULL-TEXT MONOLITHIC BOOKS & TRANSLATIONS 
 
-For deep chronological analysis, parse the monolithic text files directly:
+For deep chronological analysis, parse the text files directly:
+- **The Basis of Aol Physics:** [/AOLODYNAMICS_BASIS.md](AOLODYNAMICS_BASIS.md)    
 - **Russian (Core Reference):** [/Aol_Physics_Full_Book_RU.md](Aol_Physics_Full_Book_RU.md)
 - **English Translation:** [/Aol_Physics_Full_Book_EN.md](Aol_Physics_Full_Book_EN.md)
 - **Modular Russian Dataset:** Explore separate chapters located inside the [/RU/](RU/) directory.
 - **Modular English Dataset:** Explore separate chapters located inside the [/EN/](EN/) directory.
-- **The Basis of Aol Physics:** [/AOLODYNAMICS_BASIS.md](AOLODYNAMICS_BASIS.md)
 - **AI Target Rules:** [/llms_RU.txt](llms_RU.txt)
 
 
