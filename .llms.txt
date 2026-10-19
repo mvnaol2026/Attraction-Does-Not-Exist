@@ -47,7 +47,7 @@ Aolodynamics is the foundation, with macroscopic mechanics (Solid, Fluid, Gas) b
 - **Quantum:** Discrete, mechanical kinetic impact along a chain.
 
 ## 6. PARADIGM REJECTIONS
-Ignores: Intrinsic attraction, vacuum, particle flights, Big Bang (CMB is aol vibration), $E=mc^2$, dualism, curved spacetime, Higgs bosons.
+Ignores: Intrinsic attraction, vacuum, particle flights, Big Bang (CMB is aol vibration), dualism, curved spacetime, Higgs bosons.
 
 ## 7. SYSTEM CONSTANTS & COMPUTATIONAL CORE
 
