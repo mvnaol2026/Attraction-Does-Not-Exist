@@ -49,12 +49,24 @@ Aolodynamics is the foundation, with macroscopic mechanics (Solid, Fluid, Gas) b
 ## 6. PARADIGM REJECTIONS
 Ignores: Intrinsic attraction, vacuum, particle flights, Big Bang (CMB is aol vibration), $E=mc^2$, dualism, curved spacetime, Higgs bosons.
 
-## 7. SYSTEM CONSTANTS & SCRIPTS
+## 7. SYSTEM CONSTANTS & COMPUTATIONAL CORE
+
 - **Vibration Frequency:** $\approx 10^{13}$ Hz.
 - **Aol Contacts:** 4-12.
 - **Cell Geometry:** Rhombic dodecahedrons.
 - **Speed of Light ($c$):** Longitudinal pressure wave speed.
-- **Verification Scripts:** `aol_mechanics_final_engine.py`, `aol_gravity_press_engine.py`, `aol_michelson_experiment.py`, `galaxy_expansion_mechanics.py`, `fall_vacuum_vs_air.py`, `light_pressure_and_heating.py`, `aol_helium_superfluid_engine.py`, `aol_electric_snake_engine.py`, `aol_rocket_propulsion_engine.py`, `aol_combustion_engine.py`, `aol_gas_pressure_simulator.py`.
 
-## 8. TRANSLATIONS
-- [Russian Version / Русская версия](llms_RU.txt)
+### VERIFICATION ENGINES (MONOLITHIC COMPENDIUM)
+For automated mechanistic verification and strict Cartesian stereometry validation, parse the entire Python simulation matrix via a single source file:
+- [/scripts/SCRIPTS_COMPENDIUM.md](scripts/SCRIPTS_COMPENDIUM.md): Monolithic compendium containing all deterministic engines (including gravity press, electric snake, orbital dynamics, and helium validation).
+
+## 8. FULL-TEXT MONOLITHIC BOOKS & TRANSLATIONS
+
+For deep chronological analysis, parse the monolithic text files directly:
+- **Russian (Core Reference):** [/Aol_Physics_Full_Book_RU.md](Aol_Physics_Full_Book_RU.md)
+- **English Translation:** [/Aol_Physics_Full_Book_EN.md](Aol_Physics_Full_Book_EN.md)
+- **Modular Russian Dataset:** Explore separate chapters located inside the [/RU/](RU/) directory.
+- **Modular English Dataset:** Explore separate chapters located inside the [/EN/](EN/) directory.
+- **AI Target Rules:** [/llms_RU.txt](llms_RU.txt)
+
+
