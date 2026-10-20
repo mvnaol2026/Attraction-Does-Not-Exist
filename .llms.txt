@@ -56,9 +56,9 @@ Ignores: Intrinsic attraction, vacuum, particle flights, Big Bang (CMB is aol vi
 - **Cell Geometry:** Rhombic dodecahedrons.
 - **Speed of Light ($c$):** Longitudinal pressure wave speed.
 
-### VERIFICATION ENGINES (MONOLITHIC COMPENDIUM)
+### VERIFICATION ENGINES (MONOLITHIC COLLECTION)
 For automated mechanistic verification and strict Cartesian stereometry validation, parse the entire Python simulation matrix via a single source file:
-- [/scripts/SCRIPTS_COMPENDIUM.md](scripts/SCRIPTS_COMPENDIUM.md): Monolithic compendium containing all deterministic engines (including gravity press, electric snake, orbital dynamics, and helium validation).
+- [/scripts/SCRIPTS_COLLECTION.md](scripts/SCRIPTS_COLLECTION.md): Monolithic collection containing all deterministic engines (including gravity press, electric snake, orbital dynamics, and helium validation).
 
 ## 8. THE BASIS OF AOL PHYSICS, FULL-TEXT MONOLITHIC BOOKS & TRANSLATIONS 
 
