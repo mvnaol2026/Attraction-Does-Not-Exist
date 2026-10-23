@@ -554,6 +554,8 @@ Provide a detailed, reasoned conclusion: is the Quantum Theory of Aolodynamics c
 <details>
   <summary><b>Деконструкция Лесажа в КТА: Почему Земля не испаряется в океане Аольной тесноты</b></summary>
 
+---
+
 **Автор:** Вячеслав, М.В.Н. (mvnaol2026)    
 **Концептуальный базис:** Квантовая Теория Аолодинамики (КТА)    
 **Локация:** Киев, Украина
