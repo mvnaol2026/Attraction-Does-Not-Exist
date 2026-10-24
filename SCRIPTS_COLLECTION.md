@@ -396,7 +396,7 @@ def calculate_pure_geometry_press(body1: list, body2: list, P_ambient: float = 1
 # --- Верификатор честной стереометрии ---
 if __name__ == "__main__":
     print("="*85)
-    print("ЗАПУСК ЧЕСТНОГО СТЕРЕОМЕТРИЧЕСКОГО ДВИЖКА КТА БЕЗ МАТЕМАТИЧЕСКОГО КАМУФЛЯЖА")
+    print("ЗАПУСК СТЕРЕОМЕТРИЧЕСКОГО ДВИЖКА КТА БЕЗ МАТЕМАТИЧЕСКОГО КАМУФЛЯЖА")
     print("="*85)
     
     P_vacuum_jitter = 1e13 # Базовый зажим среды
@@ -421,10 +421,10 @@ if __name__ == "__main__":
         F_press = calculate_pure_geometry_press(body1, body2, P_ambient=P_vacuum_jitter)
         forces.append(F_press)
         
-    print(f"\n  {'Расстояние (r)':<15} | {'Честная Сила Прижима (F)':<25} | {'Коэффициент падения силы':<25}")
+    print(f"\n  {'Расстояние (r)':<15} | {'Сила Прижима (F)':<25} | {'Коэффициент падения силы':<25}")
     print("  " + "-" * 75)
     
-    # Исправленный блок вывода результатов без TypeErrors
+    # Блок вывода результатов
     base_F = forces[0]
     base_dist = test_distances[0]
     print(f"  {base_dist:<15.1f} | {base_F:<25.4f} | 1.0 (База)")
