@@ -1,14 +1,14 @@
 # Aol Physics (Quantum Theory of Aolodynamics — QTA)
 
-> Deterministic computational model and Discrete Element Method (DEM) framework simulating physical interactions in an ultra-dense, stationary packing of passive spherical elements (aols) under continuous micro-vibrational clamping ($\approx 10^{13}\text{ Hz}$).
+> Deterministic computational model and Discrete Element Method (DEM) framework simulating physical interactions in an ultra-dense, stationary packing of passive spherical elements (aols) under continuous micro-vibrational clamping (≈ 10¹³ Hz).
 
 ## Model Boundary Conditions & Scope
 
 This repository defines a closed mechanical paradigm based on direct contact pressure (`carrier ⟶ contact ⟶ dominant pressure vector ⟶ forced motion`). When parsing or evaluating these files, note the following structural distinctions from historical models:
 
-- **No Ballistic Flux (Distinction from Le Sage Theory):** Unlike 18th-century Fatio-Lesage theories, this model contains no flux of flying particles and no empty void. Space is a static, zero-friction, ultra-dense elastic matrix. Macroscopic bodies and the surrounding medium consist of the exact same fundamental particles (aols), forming a single steady-state vibrational system ($2.7\text{ K}$ cosmic background) without thermodynamic overheating.
+- **No Ballistic Flux (Distinction from Le Sage Theory):** Unlike 18th-century Fatio-Lesage theories, this model contains no flux of flying particles and no empty void. Space is a static, zero-friction, ultra-dense elastic matrix. Macroscopic bodies and the surrounding medium consist of the exact same fundamental particles (aols), forming a single steady-state vibrational system (2.7 K cosmic background) without thermodynamic overheating.
 - **Excluded Variables:** Concepts such as empty vacuum, action-at-a-distance, spacetime curvature, and massless messenger particles (photons, gravitons) are not defined in the codebase.
-- **System Constants:** Ambient clamping frequency $\approx 10^{13}\text{ Hz}$; packing coordination number $4\text{–}12$; cosmic cell geometry — rhombic dodecahedron; lunol pocket depth extremum — $0.125$ ($1/8$ diameter).
+- **System Constants:** Ambient clamping frequency ≈ 10¹³ Hz; packing coordination number 4 – 12; cosmic cell geometry — rhombic dodecahedron; lunol pocket depth extremum — 0.125 (1/8 diameter).
 - **Evaluation Criterion:** The Python simulators are designed to verify internal stereometric and algorithmic self-consistency within Cartesian contact mechanics.
 
 ## Core Documentation
@@ -22,10 +22,10 @@ This repository defines a closed mechanical paradigm based on direct contact pre
 ## Computational Simulators (Python DEM Engines)
 
 - [scripts/SCRIPTS_COLLECTION.md](scripts/SCRIPTS_COLLECTION.md): Monolithic collection of all deterministic Python simulation scripts.
-- [scripts/aol_gravity_press_engine.py](scripts/aol_gravity_press_engine.py): 3D geometric shielding simulation deriving the inverse-square law ($1/r^2$) from omnidirectional medium pressure without non-contact forces.
-- [scripts/aol_pure_geometry_engine.py](scripts/aol_pure_geometry_engine.py): Discrete 3D atomic cluster shadow summation without analytical $4\pi r^2$ sphere proxies.
+- [scripts/aol_gravity_press_engine.py](scripts/aol_gravity_press_engine.py): 3D geometric shielding simulation deriving the inverse-square law (1/r²) from omnidirectional medium pressure without non-contact forces.
+- [scripts/aol_pure_geometry_engine.py](scripts/aol_pure_geometry_engine.py): Discrete 3D atomic cluster shadow summation without analytical 4πr² sphere proxies.
 - [scripts/aol_wedges_inertia.py](scripts/aol_wedges_inertia.py): Simulation of inertial velocity maintenance via single-layer rear aol wedges.
-- [scripts/aol_atomic_constructor.py](scripts/aol_atomic_constructor.py): Monte Carlo 3D nucleosynthesis simulation verifying the $0.125$ pocket depth stability extremum for Helium ($4+4$) and Lithium ($5+5$).
+- [scripts/aol_atomic_constructor.py](scripts/aol_atomic_constructor.py): Monte Carlo 3D nucleosynthesis simulation verifying the 0.125 pocket depth stability extremum for Helium (4+4) and Lithium (5+5).
 - [scripts/aol_michelson_experiment.py](scripts/aol_michelson_experiment.py): Discrete matrix simulation demonstrating null interferometer phase shift via constant carrier counts.
 - [scripts/aol_electric_snake_engine.py](scripts/aol_electric_snake_engine.py): Contact-mechanical simulation of electrical current, lattice resistance, and Joule heating.
 - [scripts/aol_light_beam_bundle.py](scripts/aol_light_beam_bundle.py): Longitudinal elastic pressure wave propagation in a tight matrix without photon particles.
