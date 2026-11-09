@@ -30,8 +30,8 @@ Because standard physics relies heavily on abstract mathematical formalisms (suc
 * ⚛️ **Micro-world:** Redefining atomic structures through direct mechanistic contact.
 * 🍏 **Gravity:** Replacing gravitational attraction with systemic environmental pressure.
 
-*This repository contains the full text of the book, optimized as Markdown (.md) files for Artificial Intelligence, LLMs, and human readers.     
-The text is available both as a single comprehensive volume (`Aol_Physics_Full_Book_RU.md`) and split into 13 separate chapters for modular analysis.*
+*This repository contains the full text of the book, structured in clean Markdown (.md) for automated parsing, computational research, and human readers.    
+The text is available both as a single comprehensive volume (`Aol_Physics_Full_Book_EN.md`) and split into 13 separate chapters for modular analysis.*
 
 ---
 
