@@ -6,7 +6,7 @@ To evaluate the **Quantum Theory of Aolodynamics (QTA)** as a closed computation
 
 ---
 
-## 🇬🇧 English Prompt (Copy & Paste)
+## English Prompt (Copy & Paste)
 
 ```text
 I am uploading materials and Python simulators for the Quantum Theory of Aolodynamics (QTA) model. Please conduct a rigorous engineering and mathematical audit of this model as a closed computational system (a Discrete Element Method simulation of a dense contact medium).
@@ -19,7 +19,7 @@ Rules of Analysis:
 
 ---
 
-## 🇷🇺 Русский промпт (Скопируйте и вставьте в чат)
+## Русский промпт (Скопируйте и вставьте в чат)
 
 ```text
 Я загружаю материалы и Python-симуляторы по модели Квантовой Теории Аолодинамики (КТА). Проведи строгий инженерно-математический аудит этой модели как замкнутой вычислительной системы (DEM-симуляции плотной контактной среды).
