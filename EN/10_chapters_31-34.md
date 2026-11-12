@@ -171,11 +171,11 @@ In 1687, Isaac Newton published his magnum opus, Mathematical Principles of Natu
 
 Continental Europe met Newton's void with fierce hostility, dismissing attraction across nothingness as a regression to medieval magic. For half a century, the greatest minds of the era tried to rescue and "repair" aethereal mechanics:
 
-•	In 1689, Gottfried Leibniz divided the aether into two independent layers (one for light, another for gravity), attempting to mathematically match the speeds of the vortices to planetary orbits.
+**•	In 1689, Gottfried Leibniz** divided the aether into two independent layers (one for light, another for gravity), attempting to mathematically match the speeds of the vortices to planetary orbits.
 
-•	In 1690, Christiaan Huygens replaced Descartes' slow whirlpools with a chaotic swarm of ultra-tiny aether particles darting about at tremendous speeds. Driven by centrifugal force, these particles tended to fly upward away from the Earth, pushing ordinary heavy bodies downward—thus Huygens mechanically explained falling objects without any need for attraction.
+**•	In 1690, Christiaan Huygens** replaced Descartes' slow whirlpools with a chaotic swarm of ultra-tiny aether particles darting about at tremendous speeds. Driven by centrifugal force, these particles tended to fly upward away from the Earth, pushing ordinary heavy bodies downward—thus Huygens mechanically explained falling objects without any need for attraction.
 
-•	In the 1730s, Johann Bernoulli proposed a "spongy" aether—an ultra-fine medium capable of flowing freely through the pores inside atoms like water through a fishing net, transmitting gravitational pressure without slowing down the planets.
+**•	In the 1730s, Johann Bernoulli** proposed a "spongy" aether—an ultra-fine medium capable of flowing freely through the pores inside atoms like water through a fishing net, transmitting gravitational pressure without slowing down the planets.
 
 By the 1740s, however, the vortex aether had lost the battle. Saving it required far too many artificial caveats, whereas Newton's formulas of the void predicted the motion of planets and comets with impeccable precision. For the sake of mathematical accuracy, science sacrificed an intuitive mechanism, and the gravitational aether was sent into retirement.
 
@@ -242,108 +242,6 @@ All the tangible matter familiar to us is merely a negligible sprinkling within 
 It is precisely Aol space that serves as the primary and sole intermediary in transmitting interactions across a distance. Through it, bodies act upon one another via contact at a distance, without violating the unshakable law of physics—the law stating that interaction is transmitted exclusively through contact pressure.
 
 That is why I use the term "Aol space"—and I have no intention of giving it up.
-
-
-
-
-
-
-
-**The History of Ether: From Primary Matter to the Forbidden Mechanics of the Universe**
-
-The concept of the ether is a dramatic page in the history of natural science. The attempt to explain the world through a continuous material medium was for centuries the foundation of common sense, until the mathematical abstractionism of the 20th century declared it "outlawed".
-
-**Antiquity and Descartes: The Continuous Fullness of the World**
-
-The word aither signified the "upper, purest layer of air." Aristotle introduced the ether into philosophy as the "fifth element" (quinta essentia) — an eternal, immutable primary matter from which the celestial spheres are constructed.  
-**•	René Descartes (17th Century):**  
-Transformed the philosophical ether into a rigorous physical model. Descartes completely denied the void, asserting that space is extended, which implies it is material. The entire cosmos inside Descartes' framework is an ultra-dense "cosmic fluid" filled with the finest particles. The motion of planets and gravitation were explained in a purely mechanical manner: via gigantic ether vortices that swept bodies along and pressed them toward centers.
-
-**The 19th Century: The Triumph of the Wave Ether**
-
-When Thomas Young and Augustin-Jean Fresnel proved that light is a transverse wave, physics confronted an ironclad law of mechanics: a wave fundamentally cannot travel through a void; a wave process is invariably the deformation and oscillation of a medium's elements.  
-**•	The Birth of a Paradox:**  
-In order to transmit light at a colossal velocity (300,000 kilometers per second) and concurrently be a transverse wave, the ether was obligated to possess the properties of an absolutely rigid, elastic body (such as steel or diamond).  
-Physicists of the 19th century (Maxwell, Kelvin, Lorentz) attempted to construct mechanical models of the ether, imagining it as a dense medium composed of rotating gears, pressure tubes, or fluid vortices. Yet they were fundamentally incapable of explaining how planets execute motion through this "solid diamond" without deceleration.
-
-**The Beginning of the 20th Century: The Funeral of the Medium**
-
-In 1887, Michelson and Morley attempted to measure the "ether wind" (the deceleration of light due to the Earth's motion through the ether) and obtained a null result. Instead of revising the geometry of bodies' interaction with the medium, official science trod the path of least mathematical resistance.  
-**•	The Ban on the Concept:**  
-Albert Einstein, within Special Relativity, declared that introducing a material ether was "superfluous". Space was proclaimed an absolute geometric void (a vacuum) in which light travels entirely on its own, devoid of any carrier. The word "ether" became a synonym for pseudoscience, and for its mere mention in academic papers, physicists began to be stripped of their university chairs.
-
-**The Present Day: Return Under Alias Names**
-
-By cutting away the ether, official physics fell into a conceptual dead end. It was revealed that a void is fundamentally incapable of transmitting fields and interactions. Consequently, modern science commenced to secretly return the ether back, yet under different, strictly censored terms:
-
-**•	Instead of the ether, they introduced the "Physical Vacuum,"** which possesses density and elasticity, and "boils" with virtual particles.  
-**•	They introduced the "Higgs Field"** — a continuous, invisible condensate permeating the Universe and decelerating particles.  
-**•	They introduced "Dark Matter" and "Dark Energy,"** which constitute 95% of the Universe's mass, fill the entire cosmos, yet are "invisible".
-
-**The Primary Peculiarities and Logical Dead Ends of the Official Rejection of the Ether:**
-
-**•	The Paradox of "Immaterial Elasticity":**  
-Modern cosmology asserts that empty spacetime is capable of expanding, contracting, and even vibrating. Yet expanding, contracting, and vibrating can be executed exclusively by a real material medium possessing a modulus of elasticity and density. To declare that an "empty nothingness" vibrates is a linguistic absurdity. Science has ascribed all the properties of the ether to the void, yet prohibits it from being termed matter.
-
-**•	The Dead End of 26 Invisible "Sheets":**  
-Having rejected a unified ether, quantum field theory was forced to declare that 26 distinct quantum fields are simultaneously superimposed upon one another at every single point in space. Instead of one understandable material medium, physicists fantasized 26 invisible substances occupying the exact same volume.
-
-**•	The Ignoring of Local Causality:**  
-Devoid of a continuous medium, official science devolved into the mysticism of contactless action-at-a-distance: inside its framework, charges attract through a vacuum, and quantum particles instantaneously "teleport." By removing the material intermediary, physics removed the very mechanics of proximity interaction.
-
-**Conclusion:**  
-Official science has driven itself into a mental trap. It utilizes the properties of the ether every single second (inside the equations of fields and the vacuum), yet is panickily terrified to acknowledge its existence, lest the century-old house of cards of relativism and quantum magic collapse entirely.
-
-### The Aol Model of the Ether
-
-Aol space could be called ether. I deliberately do not do this.
-The word “ether” carries a long trail of incorrect ideas. In the minds of most people, including physicists, it is something ethereal, vague, almost mythical. A subtle, weightless substance barely present between bodies — no more than a poetic image, convenient for talking about the nature of light.
-
-**The Michelson experiment and what was being searched for**
-
-After ether had been conceptually abandoned, Albert A. Michelson and Edward W. Morley attempted to detect it experimentally — through the so-called “ether wind.” 
-
-The logic was as follows: if the Earth moves through ether, then in the direction of motion light should travel slightly slower, and perpendicular to it — slightly faster.
-No difference was detected. 
-
-And the final conclusion was made — there is no ether.
-
-But in the aol model, this result is explained in a completely different way — without rejecting the medium.
-The speed of transmission of vibrations in aol space is determined by the hardness of aols and the density of their packing. 
-
-Both of these characteristics are constant and identical in all directions. 
-The number of aols between any two points of the Michelson apparatus does not change depending on the orientation of the device or the speed of the Earth.
-
-Therefore, the speed of light is the same in all directions — not because there is no ether, but because the ether is homogeneous and isotropic.
-
-There is no ether wind and cannot be.
-Michelson was looking for the wrong ether. 
-And did not find it precisely because he was looking for the wrong thing.
-
-**Why aol space is not ether**
-
-When I wrote this hypothesis in 2000, I did not think about ether at all. Aol space was for me an independent idea — so different from the familiar concept of ether that the term itself did not even come to mind. I remember my disappointment when, finishing the work, I suddenly realized that what I was describing could technically be called ether. It irritated me for a long time.
-
-It irritated me because the word “ether” carries too much that is incorrect. Incorrect properties attributed to it. An incorrect perception — as something secondary, decorative, almost poetic. And it is precisely this perception that made physicists incapable of accepting a solid, active ether when they came very close to it.
-
-Aol space is not ether in the historical sense. It is something fundamentally different in its nature.
-
-**It is the creator of everything.**  
-**It is the holder of everything.**  
-**It is the essence of the Universe. Its foundation.**  
-**Its prime mover.**
-
-**It is the only source of inexhaustible “energy” in the Universe** (“energy” in quotes, because the essence of “energy” lies in moving and interacting matter, not in some mysterious substance). It is the pressure and vibration of aol space that provide “energy” to all processes in the Universe — there are no other sources of “energy.” **The pressure and vibration of aol space are what is called “energy.”**
-
-Everything consists of its extremely hard particles — there is nothing harder. Any object and aol space form a single and inseparable whole. A symbiosis. Aol space can exist on its own, but an object cannot exist without it even for a moment. Aol space is not only around objects, it is also inside them. And through it, all objects in the Universe are connected.
-
-**The Universe is a single dynamic-kinematic system thanks to aol space.** A unified system in which the oscillation of one aol affects the entire system. Where not a single aol, not for a single moment, can be outside dense contact under high pressure with other aols.
-
-All other matter is negligible inclusions within the power of aol space. All objects are completely subject to its influence. Without it, material objects are not just nothing — they are incapable of existing.
-
-Aol space is the primary and only medium for transmitting interactions between material objects at a distance. It is through it that material objects interact with each other in contact form over distance, without violating the fundamental law of physics — the law of contact pressure in interactions.
-
-That is why I use the term “aol space” — and I do not intend to abandon it.
 
 
 
