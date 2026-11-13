@@ -1156,7 +1156,8 @@ Aольная модель гравитации кардинально отли�
 
 ## 📈 Status / Статус
 
-This is a completed conceptual model, accompanied by functional scripts, intended for further development, discussion, mathematical formalization, and deep analysis by both human physicists and advanced AI models.    
+This is a completed conceptual model, accompanied by functional scripts, intended for further development, discussion, mathematical formalization, and deep analysis by both human physicists and advanced AI models. 
+
 Это завершенная концептуальная модель, сопровождаемая рабочими скриптами, предназначенная для дальнейшей разработки, обсуждения, математической формализации и глубокого анализа как физиками-исследователями, так и продвинутыми моделями ИИ.
 
 ---
