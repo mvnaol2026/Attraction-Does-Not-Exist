@@ -320,32 +320,6 @@ In the Quantum Theory of Aolodynamics (QTA), mass is a measure of the volumetric
 
 ---
 
-## ⚙️ The Four Branches of Mechanics (Aolodynamics)
-
-<details>
-<summary>📂 <b>Click to expand the list</b></summary>
-&nbsp; 
-   
-No other processes occur in the physical world except for mechanical interactions. All of them are governed by a single, alternative-free principle — **direct contact pressure of matter.**    
-Depending on the scale and state of the medium, physics distinguishes four branches of mechanics:
-
-1. 🧱 **Mechanics of solid bodies** (Classical mechanics)
-2. 💧 **Fluid mechanics** (Hydraulics)
-3. 💨 **Gas mechanics** (Pneumatics)
-4. ⚛️ **Aol mechanics** (Aolodynamics)
-
-In all four branches, motion is achieved exclusively through direct contact pressure. Since macroscopic matter is fundamentally passive, the only true Prime Mover of the Universe is the aol space itself.     
-Consequently, **aolodynamics is the core and singular form of mechanics**, whereas the other three branches are merely its specific macro-structural manifestations.
-
-It is through the laws of aolodynamics that phenomena mistakenly classified by official science as "non-contact forces" or wave paradoxes are fully explained:    
-🍏 **Gravity** — mechanical compression of bodies driven by spatial vibrational shielding.    
-🏃‍♂️ **Inertial Motion** — continuous forward impulsion caused by spatial "aol wedges" tightening from behind.    
-💡 **Light** — high-frequency elastic pressure waves transmitted sequentially down a chain of tightly packed aols.    
-⚡ **Electricity & Magnetism** — directional propagation of aol "snakes" and localized mechanical vortices of the medium.
-</details>
-
----
-
 ## 🧪 Comparative Benchmark & Theoretical Audit
 
 <details>
