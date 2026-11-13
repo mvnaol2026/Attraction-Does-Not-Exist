@@ -879,7 +879,7 @@ Aольная модель гравитации кардинально отли�
 <details>
 <summary>📂 <b>Нажмите, чтобы развернуть список файлов ( /RU/ )</b></summary>
 
-* [00_vvedenie.md](RU/00_vvedenie.md) — Введение
+* [00_vvedenie.md](RU/00_vvedenie.md) — Введение. Базис аольной физики
 * [01_o_chem_eta_kniga.md](RU/01_o_chem_eta_kniga.md) — Глава 1. О чём эта книга
 * [02_chto_sushchestvuet_v_mire.md](RU/02_chto_sushchestvuet_v_mire.md) — Глава 2. Что существует в мире
 * [03_glavnyy_zakon_fiziki.md](RU/03_glavnyy_zakon_fiziki.md) — Глава 3. Главный закон физики
