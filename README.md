@@ -475,7 +475,7 @@ For a deeper analysis of how statistical templates influence automated reviews o
 * [08_chapters_26-28.md](EN/08_chapters_26-28.md) — Chapters 26–28.
 * [09_chapters_29-30.md](EN/09_chapters_29-30.md) — Chapters 29–30.
 * [10_chapters_31-34.md](EN/10_chapters_31-34.md) — Chapters 31–34.
-* [11_chapters_35-40_and_afterword.md](EN/11_chapters_35-40.md) — Chapters 35–40. 
+* [11_chapters_35-40.md](EN/11_chapters_35-40.md) — Chapters 35–40. 
 * [12_chapters_41-42_and_afterword.md](EN/12_chapters_41-42_and_afterword.md) — Chapters 41–42 and Afterword.
 * [13_additional_materials_EN.md](EN/13_additional_materials_EN.md) — The Basis of Aol Physics.
 
@@ -962,7 +962,7 @@ Aольная модель гравитации кардинально отли�
 * [08_chapters_26-28.md](RU/08_chapters_26-28.md) — Главы 26–28 / Chapters 26-28.
 * [09_chapters_29-30.md](RU/09_chapters_29-30.md) — Главы 29–30 / Chapters 29-30.
 * [10_chapters_31-34.md](RU/10_chapters_31-34.md) — Главы 31–34 / Chapters 31-34.
-* [11_chapters_35-40_and_afterword.md](RU/11_chapters_35-40_and_afterword.md) — Главы 35–40 / Chapters 35-40.
+* [11_chapters_35-40.md](RU/11_chapters_35-40.md) — Главы 35–40 / Chapters 35-40.
 * [12_chapters_41-42_and_afterword.md](RU/12_chapters_41-42_and_afterword.md) — Главы 41–42 и послесловие / Chapters 41-42 & afterword.
 * [13_additional_materials.md](/RU/13_additional_materials.md) — Дополнительные материалы / Additional Materials.
 
