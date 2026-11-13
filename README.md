@@ -943,7 +943,84 @@ Aольная модель гравитации кардинально отли�
 
 ### 📖 Полная версия книги единым файлом / Monolithic Full-Text Files (Root Directory):
 - [Aol_Physics_Full_Book_RU.md](Aol_Physics_Full_Book_RU.md) — Полная версия книги на русском языке (около **400** страниц)
-- https://mvnaol2026.github.io/Attraction-Does-Not-Exist/Aol_Physics_Full_Book_RU 
+- https://mvnaol2026.github.io/Attraction-Does-Not-Exist/Aol_Physics_Full_Book_RU
+
+---
+
+### 📖 Русская версия / Russian Version ( `/RU/` ) — книга «Притяжения не существует» в 45 файлах:
+<a name="toc-ru"></a>
+
+<details>
+<summary>📂 <b>Нажмите, чтобы развернуть список файлов ( /RU/ )</b></summary>
+
+* [00_vvedenie.md](RU/00_vvedenie.md) — Введение
+* [01_o_chem_eta_kniga.md](RU/01_o_chem_eta_kniga.md) — Глава 1. О чём эта книга
+* [02_chto_sushchestvuet_v_mire.md](RU/02_chto_sushchestvuet_v_mire.md) — Глава 2. Что существует в мире
+* [03_glavnyy_zakon_fiziki.md](RU/03_glavnyy_zakon_fiziki.md) — Глава 3. Главный закон физики
+* [04_chetyre_vida_mekhaniki.md](RU/04_chetyre_vida_mekhaniki.md) — Глава 4. Четыре вида механики
+* [05_prostranstvo_i_dvizhitel.md](RU/05_prostranstvo_i_dvizhitel.md) — Глава 5. Пространство – это не пустота. Движитель
+* [06_aoly.md](RU/06_aoly.md) — Глава 6. Аолы – первичные элементы мира
+* [07_bezumnyy_mir_iz_tochki.md](RU/07_bezumnyy_mir_iz_tochki.md) — Глава 7. Безумный мир из точки
+* [08_aolnoe_prostranstvo.md](RU/08_aolnoe_prostranstvo.md) — Глава 8. Аольное пространство
+* [09_fizicheskaya_filosofiya.md](RU/09_fizicheskaya_filosofiya.md) — Глава 9. Физическая философия аольной модели
+* [10_lunoly.md](RU/10_lunoly.md) — Глава 10. Лунолы
+* [11_atom.md](RU/11_atom.md) — Глава 11. Атом: конструкция материи
+* [12_atomy.md](RU/12_atomy.md) — Глава 12. Атомы из аолов и лунолов
+* [13_molekuly.md](RU/13_molekuly.md) — Глава 13. Молекулы и вещество
+* [14_gaz_zhidkost_tverdoe_telo.md](RU/14_gaz_zhidkost_tverdoe_telo.md) — Глава 14. Газ, жидкость и твёрдое тело
+* [15_kolebaniya_atomov.md](RU/15_kolebaniya_atomov.md) — Глава 15. О колебаниях атомов – что на самом деле «трясёт» материю
+* [16_khimicheskie_protsessy.md](RU/16_khimicheskie_protsessy.md) — Глава 16. Химические процессы
+* [17_inertsiya.md](RU/17_inertsiya.md) — Глава 17. Инерция
+* [18_massa.md](RU/18_massa.md) — Глава 18. Масса
+* [19_zakony_nyutona.md](RU/19_zakony_nyutona.md) — Глава 19. Законы Ньютона
+* [20_gravitatsiya.md](RU/20_gravitatsiya.md) — Глава 20. Гравитация
+* [21_prilivy_i_otlivy.md](RU/21_prilivy_i_otlivy.md) — Глава 21. Приливы и отливы
+* [22_na_chto_sposobna_materiya.md](RU/22_na_chto_sposobna_materiya.md) — Глава 22. На что способна материя
+* [23_chto_takoe_energiya.md](RU/23_chto_takoe_energiya.md) — Глава 23. Что такое «энергия»
+* [24_teplo.md](RU/24_teplo.md) — Глава 24. Тепло
+* [25_svet.md](RU/25_svet.md) — Глава 25. Свет
+* [26_opyt_maykelsona.md](RU/26_opyt_maykelsona.md) — Глава 26. Опыт Майкельсона и почему искали не тот эфир
+* [27_teoriya_otnositelnosti.md](RU/27_teoriya_otnositelnosti.md) — Глава 27. Как появилась теория относительности – и что было бы, при наличии среды
+* [28_elektricheskiy_tok.md](RU/28_elektricheskiy_tok.md) — Глава 28. Электрический ток
+* [29_elektromagnitnye_volny.md](RU/29_elektromagnitnye_volny.md) — Глава 29. Электромагнитные волны – передача колебаний
+* [30_polya.md](RU/30_polya.md) — Глава 30. Поля
+* [31_magnitnoe_pole.md](RU/31_magnitnoe_pole.md) — Глава 31. Магнитное поле
+* [32_magnit.md](RU/32_magnit.md) — Глава 32. Магнит. Взаимодействие магнитов
+* [33_efir.md](RU/33_efir.md) — Глава 33. Эфир
+* [34_materiya.md](RU/34_materiya.md) — Глава 34. Материя: от первичной частицы до вселенной
+* [35_razlet_galaktik.md](RU/35_razlet_galaktik.md) — Глава 35. Разлёт галактик – механизм ускорения
+* [36_gorenie.md](RU/36_gorenie.md) — Глава 36. Горение
+* [37_reaktivnoe_dvizhenie.md](RU/37_reaktivnoe_dvizhenie.md) — Глава 37. Реактивное движение
+* [38_sverkhtekuchest.md](RU/38_sverkhtekuchest.md) — Глава 38. Сверхтекучесть
+* [39_teoriya_bolshogo_vzryva.md](RU/39_teoriya_bolshogo_vzryva.md) — Глава 39. Два фактора появления теории большого взрыва
+* [40_itogi_osnovy_aolnoy_fiziki.md](RU/40_itogi_osnovy_aolnoy_fiziki.md) — Глава 40. Итоги. Основы аольной физики
+* [41_anatomiya_nevozmozhnykh_mekhanizmov.md](RU/41_anatomiya_nevozmozhnykh_mekhanizmov.md) — Глава 41. Анатомия невозможных механизмов
+* [42_prevoskhodstvo_aolnoy_fiziki.md](RU/42_prevoskhodstvo_aolnoy_fiziki.md) — Глава 42. Превосходство Аольной физики над официальной наукой и остальными альтернативными моделями
+* [43_posleslovie.md](RU/43_posleslovie.md) — Послесловие
+* [44_dopolnitelnye_materialy.md](RU/44_dopolnitelnye_materialy.md) — **Дополнительные материалы:**    
+ОТ АВТОРА: Почему здесь находится этот раздел?    
+ЧАСТЬ 1. Сравнительный анализ: Аольная физика (КТА) против альтернативных (эфирных) гипотез    
+ЧАСТЬ 2. Сравнительная матрица: Аольная физика (КТА) против Официальной науки (ОТО / КТП)    
+Диктатура Столпов: Хроника системных катастроф и интеллектуального слепого рабства в физике    
+Четыре Птолемея: Хроника великой математической подмены в физике    
+Эпициклы квантового мира: Триумф калькулятора над реальностью     
+Математический камуфляж микромира: Почему уравнения физиков рассчитывают Аолодинамику     
+Третий закон Ньютона без квантовых призраков     
+Деконструкция и механистический вывод закона тяготения в КТА     
+Честная структура познания: Фильтр против системных ошибок    
+Квант как механический удар: Вывод параметров аольной матрицы из макроскопических констант    
+Логический ультиматум материализма: Либо Бог, либо Единая материя – третьего не дано    
+Моё отношение к физикам    
+История написания гипотезы: от зеленых тетрадей до цифровой эстафеты ИИ    
+Свидетельство автора: цена «русского мира»     
+ПРИЛОЖЕНИЕ А. Программная верификация КТА: Полнофункциональный 3D-симулятор гравитационного прижима     
+ПРИЛОЖЕНИЕ Б. Программная верификация КТА: Стохастический конструктор атомных LEGO-кластеров    
+ПРИЛОЖЕНИЕ В. Программная верификация КТА: Симулятор интерферометра в дискретной матрице    
+ПРИЛОЖЕНИЕ Г. Программная верификация КТА: Механистический симулятор электрического тока    
+ИТОГОВЫЙ МАНИФЕСТ ПРОГРАММНОЙ ВЕРИФИКАЦИИ КТА  
+
+</details>
+
 ---
 
 ### 📖 Русская версия / Russian Version ( `/RU/` ) — книга «Притяжения не существует» в 13 файлах:
