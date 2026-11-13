@@ -1023,30 +1023,6 @@ Aольная модель гравитации кардинально отли�
 
 ---
 
-### 📖 Русская версия / Russian Version ( `/RU/` ) — книга «Притяжения не существует» в 13 файлах:
-
-<details>
-<summary>📂 <b>Нажмите, чтобы развернуть список файлов ( /RU/ )</b></summary>
-&nbsp; 
-
-* [01_introduction_and_chapters_1-3.md](RU/01_introduction_and_chapters_1-3.md) — От автора, оглавление, введение и главы 1–3 / Preface, TOC, introduction & chapters 1-3.
-* [02_chapters_4-6.md](RU/02_chapters_4-6.md) — Главы 4–6 / Chapters 4-6.
-* [03_chapters_7-9.md](RU/03_chapters_7-9.md) — Главы 7-9 / Chapters 7-9.
-* [04_chapters_10-11.md](RU/04_chapters_10-11.md) — Главы 10–11 / Chapters 10-11.
-* [05_chapters_12-16.md](RU/05_chapters_12-16.md) — Главы 12–16 / Chapters 12-16.
-* [06_chapters_17-20.md](RU/06_chapters_17-20.md) — Главы 17–20 / Chapters 17-20.
-* [07_chapters_21-25.md](RU/07_chapters_21-25.md) — Главы 21–25 / Chapters 21-25.
-* [08_chapters_26-28.md](RU/08_chapters_26-28.md) — Главы 26–28 / Chapters 26-28.
-* [09_chapters_29-30.md](RU/09_chapters_29-30.md) — Главы 29–30 / Chapters 29-30.
-* [10_chapters_31-34.md](RU/10_chapters_31-34.md) — Главы 31–34 / Chapters 31-34.
-* [11_chapters_35-40.md](RU/11_chapters_35-40.md) — Главы 35–40 / Chapters 35-40.
-* [12_chapters_41-42_and_afterword.md](RU/12_chapters_41-42_and_afterword.md) — Главы 41–42 и послесловие / Chapters 41-42 & afterword.
-* [13_additional_materials.md](RU/13_additional_materials.md) — Дополнительные материалы / Additional Materials.
-
-</details>
-
----
-
 ### 💻 Программные симуляции на Python ( /scripts/ )
 📜 **[SCRIPTS_COLLECTION.md](SCRIPTS_COLLECTION.md) — Сборник всех скриптов в одном файле**
 
