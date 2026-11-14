@@ -47,5 +47,5 @@ There is no contradiction whatsoever — merely two different regimes of motion 
 However, if we attempt to displace these very same cards with their edges into one another, they will begin to collide with their corners and ribs, generating a powerful mechanical jam. The exact same fluid, the exact same atoms, yet a fundamentally different vector of force application.    
 The physical world has once more proven to be mechanistic, visualizable, and not requiring paradoxes.
 
-
+[← Previous Chapter](37_reactive_motion.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](39_big_bang_theory.md)
 
