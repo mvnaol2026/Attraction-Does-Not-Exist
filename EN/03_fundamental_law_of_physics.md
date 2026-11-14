@@ -60,3 +60,4 @@ Expand the Physical Meaning of the Law:
 Lastly, something must be said about the current state of human knowledge. Today, it is considered shameful in society to believe in a flat Earth — this is recognized as evidence of dense ignorance. However, in the near future, the exact same ignorance will be recognized in the lack of knowledge of the Prime Law of Motion and blind faith in "attraction."    
 **There is no motion without contact** — and this is the foundation of the physics of future.
 
+[← Previous Chapter](02_what_exists_in_the_world.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](04_four_types_of_mechanics.md)
