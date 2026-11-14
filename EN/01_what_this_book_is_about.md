@@ -96,6 +96,6 @@ Because the main task of physics is not to be able to calculate "manifestations,
 
 You will understand why a stone flies or falls. Science does not know this (and honestly admits it), but you will know.
 
-
+[← Previous Chapter](00_introduction.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](02_what_exists_in_the_world.md)
 
 
