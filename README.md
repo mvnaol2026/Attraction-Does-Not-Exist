@@ -488,30 +488,6 @@ For a deeper analysis of how statistical templates influence automated reviews o
 
 ---
 
-### 📖 English Version (`/EN/`) - the book "Attraction Does Not Exist" in 13 files:
-
-<details>
-<summary>📂 <b>Click to expand the file list ( /EN/ )</b></summary>
-&nbsp; 
-
-* [01_introduction_and_chapters_1-3.md](EN/01_introduction_and_chapters_1-3.md) — Preface, Introduction; Chapters 1–3 (What this book is about; What exists in the world; The fundamental law of physics).
-* [02_chapters_4-6.md](EN/02_chapters_4-6.md) — Chapters 4–6 (Four types of mechanics; Space is not empty; Aols — primary elements).
-* [03_chapters_7-9.md](EN/03_chapters_7-9.md) — Chapters 7–9 (A mad world from a point; Aol space; Physical Philosophy of the Aol Model).
-* [04_chapters_10-11.md](EN/04_chapters_10-11.md) — Chapters 10–11 (Lunols — basis of matter; Atom: structure or fantasy).
-* [05_chapters_12-16.md](EN/05_chapters_12-16.md) — Chapters 12–16 (Atoms; Molecules; States of matter; Atomic vibrations; Chemical processes).
-* [06_chapters_17-20.md](EN/06_chapters_17-20.md) — Chapters 17–20 (Inertia; Mass; Newton's laws; Gravitation).
-* [07_chapters_21-25.md](EN/07_chapters_21-25.md) — Chapters 21–25 (Tides; Capabilities of matter; Energy; Heat; Light).
-* [08_chapters_26-28.md](EN/08_chapters_26-28.md) — Chapters 26–28 (Michelson experiment; Relativity and medium; Electric current).
-* [09_chapters_29-30.md](EN/09_chapters_29-30.md) — Chapters 29–30 (Electromagnetic waves; Fields).
-* [10_chapters_31-34.md](EN/10_chapters_31-34.md) — Chapters 31–34 (Magnetic field; Magnets; Ether; Matter structure).
-* [11_chapters_35-40.md](EN/11_chapters_35-40.md) — Chapters 35–40 (Galaxy expansion; Combustion; Reactive motion; Superfluidity; Big Bang theory; Conclusions and foundations of Aol physics). 
-* [12_chapters_41-42_and_afterword.md](EN/12_chapters_41-42_and_afterword.md) — Chapters 41–42 & Afterword (Anatomy of Impossible Mechanisms; Superiority of Aol Physics; Afterword).
-* [13_additional_materials_EN.md](EN/13_additional_materials_EN.md) — Additional Materials (The Basis of Aol Physics).
-
-</details>
- 
----
-
 # 🌍 О проекте (На русском)
 
 > **Примечание о языке первоисточника и переводе:** Версия проекта на русском языке является **основной и эталонной**, гарантирующей полную точность авторской терминологии и логики. Английская версия (`/EN/`) выполнена с помощью машинного/ИИ-перевода для международного ознакомления и открыта для профессиональной редактуры и уточнения терминов (Pull Requests приветствуются).
