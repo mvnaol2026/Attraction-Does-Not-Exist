@@ -155,4 +155,4 @@ Let me remind you of **the fundamental law of physics**, which perfectly underpi
 
 And I cannot fail to pay tribute to the great mind of Aristotle. In the most fundamental aspect, he was correct — **motion without material pressure is impossible.**
 
-
+[← Previous Chapter](16_chemical_processes.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](18_mass.md)
