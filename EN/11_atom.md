@@ -120,3 +120,4 @@ The atom is solid — because it is assembled from truly solid elements. The ato
 
 The atom is structured far more simply, economically, and logically from the standpoint of classical mechanics. And it is precisely this mechanistic "differently" that we will begin to examine step by step in the next chapter.
 
+[← Previous Chapter](10_lunols.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](12_atoms.md)
