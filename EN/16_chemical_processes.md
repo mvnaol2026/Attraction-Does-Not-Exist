@@ -161,5 +161,5 @@ Chemical processes naturally continue the exact same mechanics by which the atom
 
 The entire table of elements and its transformations obey the triad of aol physics: the carrier (aols and lunols), the contact (their physical touching), and the pressure (the external force impact of space).
 
-
+[← Previous Chapter](15_atomic_vibrations.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](17_inertia.md)
 
