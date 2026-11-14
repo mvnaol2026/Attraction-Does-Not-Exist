@@ -64,6 +64,6 @@ The central thought that must be anchored in one's consciousness is formulated a
 
 Therefore, every time we record the dynamic activity of matter in experiments, we are under obligation to completely ignore the false concepts of "internal abstract energy" and purposefully seek out the concrete physical source of external pressure, mechanical transfer of momentum, and contact interaction of mediums.
 
-
+[← Previous Chapter](14_gas_liquid_solid.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](16_chemical_processes.md)
 
 
