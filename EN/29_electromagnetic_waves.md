@@ -198,5 +198,5 @@ Only the frequency changes.
 And once this is understood, there is no need to divide the world into “radio,” “light,” and “radiation.”
 There are only vibrations of aol space — from slow to extremely fast.
 
-
+[← Previous Chapter](28_electric_current.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](30_fields.md)
 
