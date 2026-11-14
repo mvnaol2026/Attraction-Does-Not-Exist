@@ -386,7 +386,8 @@ For a deeper analysis of how statistical templates influence automated reviews o
 
 <details>
 <summary>📂 <b>Click to expand the file list ( /EN/ )</b></summary>
-
+&nbsp;
+   
 * [00_introduction.md](EN/00_introduction.md) — Introduction
 * [01_what_this_book_is_about.md](EN/01_what_this_book_is_about.md) — Chapter 1. What this book is about
 * [02_what_exists_in_the_world.md](EN/02_what_exists_in_the_world.md) — Chapter 2. What exists in the world
