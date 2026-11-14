@@ -185,4 +185,4 @@ Absolutely everything else is a consequence of these three primary discoveries o
 
 **P.S.** This axiomatic framework of Aol Physics is monumental and not subject to revision. However, the entire superstructure — from the geometry of specific microstructures to macroscopic consequences and simulation algorithms — is an open architecture. It demands massive theoretical development, refinement, and verification. This is a colossal field of work for decades to come, and I invite thinking logicians, physicists, and programmers, as well as AI, to jointly construct this new physical picture of the world.
 
-
+[← Previous Chapter](39_big_bang_theory.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](41_anatomy_of_impossible_mechanisms.md)
