@@ -307,5 +307,5 @@ It is more accurate to speak not of energy, but of movers. After all, it is with
 
 **The Aol model has for the first time pointed out the source and cause of all motions.** Everything is driven not by a mysterious energy, but by movers — that is, by moving matter. The primary source of motion—the principal Primary Mover of the Universe — is the vibrating and pressing aol space.
 
-
+[← Previous Chapter](22_what_matter_is_capable_of.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](24_heat.md)
 
