@@ -375,61 +375,10 @@ For a deeper analysis of how statistical templates influence automated reviews o
 
 ---
 
-## 📖 Table of Contents 
-
-- **[The Basis of Aol Physics](/EN/01_introduction_and_chapters_1-3.md#the-basis-of-aol-physics)**
-* [Introduction](/EN/01_introduction_and_chapters_1-3.md#introduction)
-* [Chapter 1. What this book is about](/EN/01_introduction_and_chapters_1-3.md#chapter-1-what-this-book-is-about)
-* [Chapter 2. What exists in the world](/EN/01_introduction_and_chapters_1-3.md#chapter-2-what-exists-in-the-world)
-* [Chapter 3. The fundamental law of physics](/EN/01_introduction_and_chapters_1-3.md#chapter-3-the-fundamental-law-of-physics)
-* [Chapter 4. Four types of mechanics](/EN/02_chapters_4-6.md#chapter-4-four-types-of-mechanics)
-* [Chapter 5. Space is not empty. The driving medium](/EN/02_chapters_4-6.md#chapter-5-space-is-not-empty-the-driving-medium)
-* [Chapter 6. Aols — the primary elements of the world](/EN/02_chapters_4-6.md#chapter-6-aols--the-primary-elements-of-the-world)
-* [Chapter 7. A mad world from a point](/EN/03_chapters_7-9.md#chapter-7-a-mad-world-from-a-point)
-* [Chapter 8. Aol space and the structure of small universes](/EN/03_chapters_7-9.md#chapter-8-aol-space-and-the-structure-of-small-universes)
-* [Chapter 9. Physical Philosophy of the Aol Model](/EN/03_chapters_7-9.md#chapter-9-physical-philosophy-of-the-aol-model)
-* [Chapter 10. Lunols — how the basis of matter emerges from a smooth sphere](/EN/04_chapters_10-11.md#chapter-10-lunols--how-the-basis-of-matter-emerges-from-a-smooth-sphere)
-* [Chapter 11. Atom: an empty fantasy or a real structure?](/EN/04_chapters_10-11.md#chapter-11-atom-an-empty-fantasy-or-a-real-structure)
-* [Chapter 12. Atoms — how matter is built from aols and lunols](/EN/05_chapters_12-16.md#chapter-12-atoms--how-matter-is-built-from-aols-and-lunols)
-* [Chapter 13. Molecules — how atoms assemble into matter](/EN/05_chapters_12-16.md#chapter-13-molecules--how-atoms-assemble-into-matter)
-* [Chapter 14. Gas, liquid, and solid — how matter behaves](/EN/05_chapters_12-16.md#chapter-14-gas-liquid-and-solid--how-matter-behaves)
-* [Chapter 15. On atomic vibrations — what really “shakes” matter](/EN/05_chapters_12-16.md#chapter-15-on-atomic-vibrations--what-really-shakes-matter)
-* [Chapter 16. Chemical processes](/EN/05_chapters_12-16.md#chapter-16-chemical-processes)
-* [Chapter 17. Inertia](/EN/06_chapters_17-20.md#chapter-17-inertia)
-* [Chapter 18. Mass](/EN/06_chapters_17-20.md#chapter-18-mass)
-* [Chapter 19. Newton’s laws](/EN/06_chapters_17-20.md#chapter-19-newtons-laws)
-* [Chapter 20. Gravitation](/EN/06_chapters_17-20.md#chapter-20-gravitation)
-* [Chapter 21. Tides](/EN/07_chapters_21-25.md#chapter-21-tides)
-* [Chapter 22. What matter is capable of](/EN/07_chapters_21-25.md#chapter-22-what-matter-is-capable-of)
-* [Chapter 23. What is “energy”](/EN/07_chapters_21-25.md#chapter-23-what-is-energy)
-* [Chapter 24. Heat](/EN/07_chapters_21-25.md#chapter-24-heat)
-* [Chapter 25. Light](/EN/07_chapters_21-25.md#chapter-25-light)
-* [Chapter 26. The Michelson experiment and why the wrong ether was sought](/EN/08_chapters_26-28.md#chapter-26-the-michelson-experiment-and-why-the-wrong-ether-was-sought)
-* [Chapter 27. How relativity theory emerged — and what would happen if a medium existed](/EN/08_chapters_26-28.md#chapter-27-how-relativity-theory-emerged--and-what-would-happen-if-a-medium-existed)
-* [Chapter 28. Electric current](/EN/08_chapters_26-28.md#chapter-28-electric-current)
-* [Chapter 29. Electromagnetic waves — the transmission of vibrations](/EN/09_chapters_29-30.md#chapter-29-electromagnetic-waves--the-transmission-of-vibrations)
-* [Chapter 30. Fields](/EN/09_chapters_29-30.md#chapter-30-fields)
-* [Chapter 31. Magnetic field](/EN/10_chapters_31-34.md#chapter-31-magnetic-field)
-* [Chapter 32. Magnet. Interaction of magnets](/EN/10_chapters_31-34.md#chapter-32-magnet-interaction-of-magnets)
-* [Chapter 33. Ether](/EN/10_chapters_31-34.md#chapter-33-ether)
-* [Chapter 34. Matter: from the primary particle to the Universe](/EN/10_chapters_31-34.md#chapter-34-matter-from-the-primary-particle-to-the-universe)
-* [Chapter 35. Expansion of galaxies — mechanism of acceleration](/EN/11_chapters_35-40.md#chapter-35-expansion-of-galaxies--mechanism-of-acceleration)
-* [Chapter 36. Combustion](/EN/11_chapters_35-40.md#chapter-36-combustion)
-* [Chapter 37. Reactive motion](/EN/11_chapters_35-40.md#chapter-37-reactive-motion)
-* [Chapter 38. Superfluidity](/EN/11_chapters_35-40.md#chapter-38-superfluidity)
-* [Chapter 39. Two factors behind the emergence of the Big Bang theory](/EN/11_chapters_35-40.md#chapter-39-two-factors-behind-the-emergence-of-the-big-bang-theory)
-* [Chapter 40. Conclusions. Foundations of aol physics](/EN/11_chapters_35-40.md#chapter-40-conclusions-foundations-of-aol-physics)
-* [Chapter 41. Anatomy of Impossible Mechanisms](/EN/12_chapters_41-42_and_afterword.md#chapter-41-anatomy-of-impossible-mechanisms)
-* [Chapter 42. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/12_chapters_41-42_and_afterword.md#chapter-42-the-superiority-of-aol-physics-over-official-science-and-other-alternative-models)
-* [Afterword](/EN/12_chapters_41-42_and_afterword.md#afterword)
-* [ADDITIONAL MATERIALS](/EN/13_additional_materials_EN.md#additional-materials)
-
----
-
 ## 📚 Repository Structure
 
 ### 📖 Monolithic Full-Text Files (Root Directory)
-- [Aol_Physics_Full_Book_EN.md](Aol_Physics_Full_Book_EN.md) — Complete text of the book in English (approx. **300** pages)
+- [Aol_Physics_Full_Book_EN.md](Aol_Physics_Full_Book_EN.md) — Complete text of the book in English (approx. **350** pages)
 
 ---
 
