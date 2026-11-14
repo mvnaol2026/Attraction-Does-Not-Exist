@@ -61,6 +61,6 @@ Incidentally, an explosion is that very same combustion, only transpiring almost
 Concurrently, combustion represents not merely chemistry. It is a mechanical process wherein the aol medium plays the role of a transmitter, an amplifier, and the sole mover (matter is passive): every single reaction shakes the medium, and the medium, by its shaking, triggers the subsequent reaction. A closed, self-sustaining cycle.  
 Fire is the bubbling aol space inside the reaction zone, continuously reconfiguring itself under the new molecular configurations.
 
-
+[← Previous Chapter](35_galaxy_expansion.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](37_reactive_motion.md)
 
 
