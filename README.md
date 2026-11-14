@@ -433,6 +433,61 @@ For a deeper analysis of how statistical templates influence automated reviews o
 
 ---
 
+### 📖 English Version ( /EN/ ) — the book "Attraction Does Not Exist" in 45 files:
+
+<details>
+<summary>📂 <b>Click to expand the file list ( /EN/ )</b></summary>
+
+* [00_introduction.md](EN/00_introduction.md) — Introduction
+* [01_what_this_book_is_about.md](EN/01_what_this_book_is_about.md) — Chapter 1. What this book is about
+* [02_what_exists_in_the_world.md](EN/02_what_exists_in_the_world.md) — Chapter 2. What exists in the world
+* [03_fundamental_law_of_physics.md](EN/03_fundamental_law_of_physics.md) — Chapter 3. The fundamental law of physics
+* [04_four_types_of_mechanics.md](EN/04_four_types_of_mechanics.md) — Chapter 4. Four types of mechanics
+* [05_space_and_mover.md](EN/05_space_and_mover.md) — Chapter 5. Space is not empty. The driving medium
+* [06_aols.md](EN/06_aols.md) — Chapter 6. Aols — the primary elements of the world
+* [07_mad_world_from_a_point.md](EN/07_mad_world_from_a_point.md) — Chapter 7. A mad world from a point
+* [08_aol_space.md](EN/08_aol_space.md) — Chapter 8. Aol space and the structure of small universes
+* [09_physical_philosophy.md](EN/09_physical_philosophy.md) — Chapter 9. Physical Philosophy of the Aol Model
+* [10_lunols.md](EN/10_lunols.md) — Chapter 10. Lunols — how the basis of matter emerges from a smooth sphere
+* [11_atom.md](EN/11_atom.md) — Chapter 11. Atom: an empty fantasy or a real structure?
+* [12_atoms.md](EN/12_atoms.md) — Chapter 12. Atoms — how matter is built from aols and lunols
+* [13_molecules.md](EN/13_molecules.md) — Chapter 13. Molecules — how atoms assemble into matter
+* [14_gas_liquid_solid.md](EN/14_gas_liquid_solid.md) — Chapter 14. Gas, liquid, and solid — how matter behaves
+* [15_atomic_vibrations.md](EN/15_atomic_vibrations.md) — Chapter 15. On atomic vibrations — what really “shakes” matter
+* [16_chemical_processes.md](EN/16_chemical_processes.md) — Chapter 16. Chemical processes
+* [17_inertia.md](EN/17_inertia.md) — Chapter 17. Inertia
+* [18_mass.md](EN/18_mass.md) — Chapter 18. Mass
+* [19_newtons_laws.md](EN/19_newtons_laws.md) — Chapter 19. Newton's laws
+* [20_gravitation.md](EN/20_gravitation.md) — Chapter 20. Gravitation
+* [21_tides.md](EN/21_tides.md) — Chapter 21. Tides
+* [22_what_matter_is_capable_of.md](EN/22_what_matter_is_capable_of.md) — Chapter 22. What matter is capable of
+* [23_what_is_energy.md](EN/23_what_is_energy.md) — Chapter 23. What is “energy”
+* [24_heat.md](EN/24_heat.md) — Chapter 24. Heat
+* [25_light.md](EN/25_light.md) — Chapter 25. Light
+* [26_michelson_experiment.md](EN/26_michelson_experiment.md) — Chapter 26. The Michelson experiment and why the wrong ether was sought
+* [27_relativity_theory.md](EN/27_relativity_theory.md) — Chapter 27. How relativity theory emerged — and what would happen if a medium existed
+* [28_electric_current.md](EN/28_electric_current.md) — Chapter 28. Electric current
+* [29_electromagnetic_waves.md](EN/29_electromagnetic_waves.md) — Chapter 29. Electromagnetic waves — the transmission of vibrations
+* [30_fields.md](EN/30_fields.md) — Chapter 30. Fields
+* [31_magnetic_field.md](EN/31_magnetic_field.md) — Chapter 31. Magnetic field
+* [32_magnet.md](EN/32_magnet.md) — Chapter 32. Magnet. Interaction of magnets
+* [33_ether.md](EN/33_ether.md) — Chapter 33. Ether
+* [34_matter.md](EN/34_matter.md) — Chapter 34. Matter: from the primary particle to the Universe
+* [35_galaxy_expansion.md](EN/35_galaxy_expansion.md) — Chapter 35. Expansion of galaxies — mechanism of acceleration
+* [36_combustion.md](EN/36_combustion.md) — Chapter 36. Combustion
+* [37_reactive_motion.md](EN/37_reactive_motion.md) — Chapter 37. Reactive motion
+* [38_superfluidity.md](EN/38_superfluidity.md) — Chapter 38. Superfluidity
+* [39_big_bang_theory.md](EN/39_big_bang_theory.md) — Chapter 39. Two factors behind the emergence of the Big Bang theory
+* [40_conclusions_foundations_of_aol_physics.md](EN/40_conclusions_foundations_of_aol_physics.md) — Chapter 40. Conclusions. Foundations of aol physics
+* [41_anatomy_of_impossible_mechanisms.md](EN/41_anatomy_of_impossible_mechanisms.md) — Chapter 41. Anatomy of Impossible Mechanisms
+* [42_superiority_of_aol_physics.md](EN/42_superiority_of_aol_physics.md) — Chapter 42. The Superiority of Aol Physics Over Official Science and Other Alternative Models
+* [43_afterword.md](EN/43_afterword.md) — Afterword
+* [44_additional_materials.md](EN/44_additional_materials.md) — Additional Materials (The Basis of Aol Physics)
+
+</details>
+
+---
+
 ### 📖 English Version (`/EN/`) - the book "Attraction Does Not Exist" in 13 files:
 
 <details>
