@@ -72,4 +72,4 @@ In nature, there are no "forces" as isolated, substance-less entities, nor are t
 
 The moment we accept this uncompromising basis, the Universe is purged of the chaos of scattered academic terms and transforms into a transparent, unified, and intuitive mechanical system, where absolutely any property of a gas, a liquid, and a solid body is exhaustively explained through the trinity of Aol physics: carrier, contact, and pressure.
 
-
+[← Previous Chapter](13_molecules.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](15_atomic_vibrations.md)
