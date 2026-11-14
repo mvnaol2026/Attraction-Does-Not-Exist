@@ -212,6 +212,6 @@ Within the framework of this hypothesis, that "something" is **Aol space — a c
 
 And next, we will take the next critically important step — we will figure out exactly what this medium consists of. After all, if space is matter, it means it must possess its own fundamental elements.
 
-
+[← Previous Chapter](04_four_types_of_mechanics.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](06_aols.md)
 
 
