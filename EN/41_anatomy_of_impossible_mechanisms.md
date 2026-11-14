@@ -607,5 +607,5 @@ There is no room for causeless magic in real, deterministic Nature. The sole, et
 
 It is this super-dense, hyperactive, gapless matrix of elastic rigid spheres that, through its continuous compressive pressure and high-frequency vibration at (10<sup>13</sup>) Hz, forces absolutely every atom and every galaxy into forced, driven motion, acting as the single and alternative-free Master Drive of the entire creation.
 
-
+[← Previous Chapter](40_conclusions_foundations_of_aol_physics.m) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](42_superiority_of_aol_physics.md)
 
