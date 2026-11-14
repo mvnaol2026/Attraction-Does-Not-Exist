@@ -16,5 +16,5 @@ Comparison is the best way to find the truth. If we contrast all existing models
 
 Aol Physics is the most systemic, logical, and closed model ever to exist. It seeks no compromises, tolerates no paradoxes, and leaves no logical gaps. It is a ready-made, cohesive answer to how our world is structured — from a tiny "building block" to an infinite Universe driven by an active Mover.
 
-
+[← Previous Chapter](41_anatomy_of_impossible_mechanisms.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](43_afterword.md)
 
