@@ -203,3 +203,4 @@ A bundle is a more stable configuration for the transmission of vibrations compa
 
 The concept of a luminous bundle demands meticulous further development.
 
+[← Previous Chapter](24_heat.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](26_michelson_experiment.md)
