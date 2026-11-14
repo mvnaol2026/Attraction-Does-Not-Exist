@@ -1118,9 +1118,5 @@ And everything else is just forms of its movement.
 
 **P.S.** If a physical process is explained without specifying the material carriers, their contact, and the driver, it is merely a camouflage for a lack of understanding of the process. One can listen to such an "explanation," but only if there is free time to spare, and strictly as a form of entertainment or an act of politeness toward the speaker. Such an "explanation" possesses absolutely no scientific value.
 
-
-
-
-
-
+[← Previous Chapter](01_what_this_book_is_about.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](03_fundamental_law_of_physics.md)
 
