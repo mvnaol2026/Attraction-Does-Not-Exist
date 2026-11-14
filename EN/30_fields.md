@@ -225,4 +225,4 @@ Conversely, what can be complex is the combination of the primitive into configu
 
 Within the Aol model, all the problems of field physics are resolved naturally, intuitively, with understandable mechanisms, and completely devoid of paradoxes or anomalies.
 
-
+[← Previous Chapter](29_electromagnetic_waves.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](31_magnetic_field.md)
