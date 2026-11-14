@@ -68,7 +68,7 @@ The text was completed in Kyiv on May 10, 2026.
 - [Chapter 41. Anatomy of Impossible Mechanisms](/EN/41_anatomy_of_impossible_mechanisms.md)
 - [Chapter 42. The Superiority of Aol Physics Over Official Science and Other Alternative Models](/EN/42_superiority_of_aol_physics.md)
 - [Afterword](/EN/43_afterword.md)
-- **[ADDITIONAL MATERIALS](EN/44_additional_materials.md)**
+- **[ADDITIONAL MATERIALS](/EN/44_additional_materials.md)**
 
 
 
