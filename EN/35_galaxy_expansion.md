@@ -93,5 +93,5 @@ The so-called "dark energy" within this picture turns out to be not a separate e
 
 Within the Aol model, the mechanism is present. And it requires nothing beyond what has already been introduced in the preceding chapters: the pressure of the medium, aol wedges, and the pressure gradient inside the Small Universes. The recession of galaxies is not an enigma demanding new entities. It is a natural consequence of how the aol space is structured.
 
-
+[← Previous Chapter](34_matter.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](36_combustion.md)
 
