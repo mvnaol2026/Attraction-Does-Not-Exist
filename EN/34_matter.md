@@ -118,3 +118,5 @@ Physicists are people, and when faced with the unknown, they complicate it and i
 
 The light in the room of science has not yet been turned on. But the cat is there. And it is completely ordinary.  
 **Everything in nature is much simpler.**
+
+[← Previous Chapter](33_ether.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](35_galaxy_expansion.md)
