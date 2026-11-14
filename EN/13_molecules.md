@@ -213,7 +213,7 @@ Thus, the molecule is a continuation of the exact same sequence from which the a
 Matter does not receive a new principle at each level of complexity.
 It assembles.
 
-
+[← Previous Chapter](12_atoms.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](14_gas_liquid_solid.md)
 
 
 
