@@ -93,3 +93,4 @@ However, knowing the properties of individual isolated "bricks" is insufficient.
 
 Answering this question requires a transition from the statics of a single particle to the dynamics of the entire aol medium as a whole. We need to investigate how pressure is distributed within this gigantic array of spheres, why zones of colossal compression arise inside it, and under the influence of what forces a portion of the aols are forced to transform.
 
+[← Previous Chapter](05_space_and_mover.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](07_mad_world_from_a_point.md)
