@@ -25,5 +25,5 @@ In short, there are fundamental questions remaining within every single topic. T
 
 **I wish them the best of luck on this journey.**
 
-
+[← Previous Chapter](42_superiority_of_aol_physics.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](44_additional_materials.md)
 
