@@ -143,7 +143,7 @@ Thus, in the aol model, there is no need to introduce a separate physical princi
 
 The moment we accept this rigid mechanistic basis, the nature of chemical reactions, phase transitions, and the strength of materials is forever rid of speculative quantum assumptions. Every physical process becomes a visual and calculable process of geometric reconfiguration, deformation, or disassembly and reassembly of mechanical structures.
 
-
+[← Previous Chapter](11_atom.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](13_molecules.md)
 
 
 
