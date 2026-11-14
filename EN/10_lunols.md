@@ -131,7 +131,7 @@ Lunols are the first and only real, tangible "structural components" of the Univ
 
 The next step is now completely natural: if there are aols and lunols, then we need to look at how exactly atoms are assembled from them. Not abstractly, but mechanically: what connects and how, what holds what together, how simple and complex structures emerge.
 
-
+[← Previous Chapter](09_physical_philosophy.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](11_atom.md)
 
 
 
