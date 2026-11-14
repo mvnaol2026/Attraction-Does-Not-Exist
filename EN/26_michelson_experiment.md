@@ -34,5 +34,5 @@ Michelson's experiment demonstrated not the absence of a medium, but the limits 
 
 The aol model does the opposite: it restores the medium, not as a hypothesis, but as a necessary condition for any process. Light no longer requires “duality,” abstract fields, or postulates. It becomes what it should be in a mechanical universe — the transmission of motion through contact and pressure. And then it becomes clear: the problem was not in the Michelson experiment. The problem was that the wrong reality was being searched for.
 
-
+[← Previous Chapter](25_light.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](27_relativity_theory.md)
 
