@@ -32,5 +32,5 @@ Now it becomes clear that electricity is linear motion of aols, while magnetism 
 These are two modes of the same process.
 The main conclusion: the magnetic field is a vortex motion of aol space arising from the motion of aols in matter.
 
-
+[← Previous Chapter](30_fields.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](32_magnet.md)
 
