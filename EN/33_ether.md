@@ -98,5 +98,5 @@ It is precisely Aol space that serves as the primary and sole intermediary in tr
 
 That is why I use the term "Aol space"—and I have no intention of giving it up.
 
-
+[← Previous Chapter](32_magnet.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](34_matter.md)
 
