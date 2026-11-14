@@ -126,5 +126,5 @@ Isaac Newton’s laws represent the greatest triumph of empirical observational 
 Aol physics does not engage in the destruction of the functioning mathematical tools of classical mechanics. It provides Newton’s formulas with a physical foundation and describes the step-by-step mechanism of every dynamic process.  
 It is precisely this transition from blind mathematical calculation to an intuitive understanding of the essence of processes that transforms physics from an abstract mathematical calculus into a true science of nature.
 
-
+[← Previous Chapter](18_mass.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](20_gravitation.md)
 
