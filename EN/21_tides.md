@@ -90,4 +90,4 @@ Tides and ebb tides are not the "stretching of water by the Moon."
 They represent a redistribution of water under the action of the aol space pressure, factoring in the law of two-sided compression, which restricts the compressive effort to the lesser of the forces.   
 And this is precisely why the ocean forms two bulges instead of one.
 
-
+[← Previous Chapter](20_gravitation.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](22_what_matter_is_capable_of.md)
