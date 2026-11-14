@@ -413,7 +413,7 @@ The time has come to return to human thought the courage to trust its own intell
 
 It is precisely this task that Aol physics resolves, returning science from the mad world of mathematical points back onto the solid ground of mechanistic realism. How the Universe is structured within the Aol model, you shall read in the next chapter.
 
-
+[← Previous Chapter](06_aols.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](08_aol_space.md)
 
 
 
