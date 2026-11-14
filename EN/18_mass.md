@@ -294,7 +294,7 @@ Unlocking the nature of mass in the Aol model forever returns physics from the r
 
 The recognition that mass is a direct consequence of the pressing and vibrating medium acting upon the passive structure of a body resolves all centuries-old paradoxes. We no longer search for hidden forces within matter. We view the world as a single material ocean, where the medium and the object are bound in a flawless dynamic ensemble, and where every kilogram of mass is a measure of how tightly this great ocean of the Universe embraces and holds within its palms every single grain of existence it has created.
 
-
+[← Previous Chapter](17_inertia.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](19_newtons_laws.md)
 
 
 
