@@ -134,5 +134,5 @@ Since mass is a measure of the action of the medium on a body, determined by its
 
 It is impossible to slow down or accelerate time because you cannot slow down what does not exist. The Universe is an eternal three-dimensional Lego-constructor in a state of short-range action and continuous collision. Time is merely a "ruler" in the human mind, but Einstein's physics tried to force the ruler itself to bend instead of recognizing the existence of an elastic material medium.
 
-
+[← Previous Chapter](26_michelson_experiment.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](28_electric_current.md)
 
