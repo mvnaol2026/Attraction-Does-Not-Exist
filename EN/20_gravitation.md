@@ -368,3 +368,4 @@ The aol space oscillates continuously. The pressure within it is transmitted not
 
 Gravity is the all-pervading vibrational pressure of the medium. And it is specifically this vibrational nature that renders it continuous, unshieldable, and capable of operating through absolutely any bodies.
 
+[← Previous Chapter](19_newtons_laws.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](21_tides.md)
