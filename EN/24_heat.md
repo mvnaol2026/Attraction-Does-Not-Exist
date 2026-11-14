@@ -117,4 +117,4 @@ The Sun "warms" not by virtue of "thermal radiation," but because it transmits t
 
 Between adjacent points on that graph's line, there is a single difference — the frequency of oscillations. This graph can be considered the emblem of the Universe, as it symbolically explains all the major processes occurring within it: the mechanical vibrations of matter at varying frequencies.
 
-
+[← Previous Chapter](23_what_is_energy.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](25_light.md)
