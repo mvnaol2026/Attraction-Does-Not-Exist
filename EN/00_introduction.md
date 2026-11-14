@@ -354,5 +354,5 @@ If fundamental science cannot explain the mechanism of an everyday phenomenon â€
 
 Aol physics utilizes the criterion of mechanical causality exclusively. Here, any process is examined through specific questions: what exactly presses against what, through what is the interaction transmitted, and what is the step-by-step mechanism of the process?   If there is no answer, the phenomenon is not considered understood.
 
-
+| [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter â†’](01_what_this_book_is_about.md)
 
