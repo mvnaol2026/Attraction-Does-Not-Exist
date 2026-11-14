@@ -84,4 +84,4 @@ This makes the explanation simpler, more consistent, and based on a single princ
 
 [← Previous Chapter](38_superfluidity.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](40_conclusions_foundations_of_aol_physics.md)
 
-[← Previous Chapter](39_big_bang_theory.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](41_anatomy_of_impossible_mechanisms.md)
+
