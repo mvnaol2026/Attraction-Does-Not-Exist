@@ -691,4 +691,4 @@ The vibrating and pressing aol space is the very Great Unifier that academic sci
 
 Bear this firmly in mind: **matter is passive, and its sole capability is to move when pushed by dominant pressure.**
 
-
+[← Previous Chapter](21_tides.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](23_what_is_energy.md)
