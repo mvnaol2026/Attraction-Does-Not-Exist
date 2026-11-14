@@ -24,7 +24,7 @@ The text was completed in Kyiv on May 10, 2026.
 ## TABLE OF CONTENTS
 
 - **[The Basis of Aol Physics](#the-basis-of-aol-physics)**
-* [Introduction](/EN/01_introduction_and_chapters_1-3.md#introduction)
+* [Introduction](#introduction)
 * [Chapter 1. What this book is about](/EN/01_introduction_and_chapters_1-3.md#chapter-1-what-this-book-is-about)
 * [Chapter 2. What exists in the world](/EN/01_introduction_and_chapters_1-3.md#chapter-2-what-exists-in-the-world)
 * [Chapter 3. The fundamental law of physics](/EN/01_introduction_and_chapters_1-3.md#chapter-3-the-fundamental-law-of-physics)
