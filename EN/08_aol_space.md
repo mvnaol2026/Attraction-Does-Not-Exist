@@ -170,5 +170,5 @@ Firmly contacting one another along their faces, these gigantic building blocks 
 
 Consequently, aol space constitutes a continuous, ultra-dense, high-frequency vibrating medium existing under gradient pressure. It is precisely the dynamics and geometry of such a hyper-reactive primordial medium that enable the birth of stable matter, the contact-driven movement of bodies, and absolutely every physical phenomenon of our reality — transforming light, heat, electricity, inertia, and gravity into different operational modes of a singular, unified aol space.
 
-
+[← Previous Chapter](07_mad_world_from_a_point.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](09_physical_philosophy.md)
 
