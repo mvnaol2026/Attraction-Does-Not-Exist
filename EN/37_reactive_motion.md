@@ -118,6 +118,6 @@ The exhausting jet is not the pushing jet (truthfully, with significant caveats 
 The momentum from the molecules that pushes the rocket is received by the front wall of the combustion chamber and the walls of the nozzle. And everything originates from the aol space. Everything is passive — both the propellant and the rocket.   
 **The sole mover is the aol space.**
 
-
+[← Previous Chapter](36_combustion.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](38_superfluidity.md)
 
 
