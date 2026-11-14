@@ -60,5 +60,5 @@ This micro-vibration of 10¹³ Hz is the physical manifestation of eternal force
 
 Matter has no choice, lacks inertia as a form of internal resistance, and is locked in a state of permanent dynamic coercion. It merely undergoes forced continuous oscillation or moves along the vector of least pressure, obeying the blind and total aolodynamics of the Universe.
 
-
+[← Previous Chapter](08_aol_space.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](10_lunols.md)
 
