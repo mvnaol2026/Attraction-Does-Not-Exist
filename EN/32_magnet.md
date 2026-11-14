@@ -101,5 +101,5 @@ No matter created from nothing.
 
 Only the motion of aols — contact and pressure.
 
-
+[← Previous Chapter](31_magnetic_field.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](33_ether.md)
 
