@@ -69,6 +69,6 @@ In fact, **aolodynamics is the basic and only genuine type of mechanics**, while
 
 **Nature is pragmatic.** It has no reason to pervert itself with wild mathematical fantasies when it has a flawlessly functioning, universal tool at hand — the simple and clear principle of contact pressure.
 
-
+[← Previous Chapter](03_fundamental_law_of_physics.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](05_space_and_mover.md)
 
 
