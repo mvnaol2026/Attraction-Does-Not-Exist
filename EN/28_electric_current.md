@@ -166,4 +166,4 @@ The might of electrical processes is explained not by the enigmatic properties o
 
 **P.S.** The themes of electrical current and magnetism have been touched upon merely slightly. I apprehend harming the theory via incorrect assumptions. **The work upon electromagnetism is at the very beginning of beginnings.**
 
-
+[← Previous Chapter](27_relativity_theory.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](29_electromagnetic_waves.md)
