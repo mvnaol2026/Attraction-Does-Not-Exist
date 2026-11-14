@@ -500,3 +500,4 @@ I will, of course, not forgive the russians for the attack on Ukraine, for the g
 
 **Glory to Ukraine!**
 
+[← Previous Chapter](43_afterword.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | 
