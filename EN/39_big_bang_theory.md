@@ -82,6 +82,6 @@ Within the framework of the aol space hypothesis, these same phenomena receive a
 At the same time, there is no need to introduce additional entities or processes that lack mechanical explanation.
 This makes the explanation simpler, more consistent, and based on a single principle — the motion of matter through contact pressure.
 
-
+[← Previous Chapter](38_superfluidity.md) | [Table of Contents](../README.md#-english-version--en---the-book-attraction-does-not-exist-in-45-files) | [Next Chapter →](40_conclusions_foundations_of_aol_physics.md)
 
 
