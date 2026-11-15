@@ -2468,11 +2468,11 @@ $$G(R) = \frac{\beta \cdot P_0(R)}{4\pi}$$
 
 ### 1. Краткий обзор пенталогии
 
-1. **Эрвин Шрёдингер:** вывел уравнение как описание реальных упругих колебаний сплошной среды, а «кот в ящике» стал сарказмом над копенгагенской трактовкой вероятностного тумана. *(Подробнее: [cta_schrodinger_tragedy_and_medium.md](cta_schrodinger_tragedy_and_medium.md))*
-2. **Альберт Эйнштейн:** признавал немыслимость пространства без эфира и боролся с идеей «игры природы в кости» (мысленный эксперимент с «бочонком пороха»), хотя сам ушёл в геометрию пустоты. *(Подробнее: [cta_einstein_tragedy_and_medium.md](cta_einstein_tragedy_and_medium.md))*
-3. **Луи де Бройль:** в противовес волново-корпускулярному дуализму разработал концепцию «субквантовой среды» и скрытого термостата, трясущего частицы. *(Подробнее: [cta_de_broglie_tragedy_and_medium.md](cta_de_broglie_tragedy_and_medium.md))*
-4. **Осборн Рейнольдс:** предложил модель Вселенной как сверхплотной упаковки твёрдых гладких сфер без трения, из дефектов которой рождаются вещество и гравитация. *(Подробнее: [cta_reynolds_tragedy_and_medium.md](cta_reynolds_tragedy_and_medium.md))*
-5. **Дэвид Бом:** выделил «квантовый потенциал» и пришёл к идее «импликативного порядка» — океана непрерывного движения. *(Подробнее: [cta_bohm_tragedy_and_medium.md](cta_bohm_tragedy_and_medium.md))*
+1. **Эрвин Шрёдингер:** вывел уравнение как описание реальных упругих колебаний сплошной среды, а «кот в ящике» стал сарказмом над копенгагенской трактовкой вероятностного тумана. *(Подробнее: [cta_schrodinger_tragedy_and_medium.md](articles/cta_schrodinger_tragedy_and_medium.md))*
+2. **Альберт Эйнштейн:** признавал немыслимость пространства без эфира и боролся с идеей «игры природы в кости» (мысленный эксперимент с «бочонком пороха»), хотя сам ушёл в геометрию пустоты. *(Подробнее: [cta_einstein_tragedy_and_medium.md](articles/cta_einstein_tragedy_and_medium.md))*
+3. **Луи де Бройль:** в противовес волново-корпускулярному дуализму разработал концепцию «субквантовой среды» и скрытого термостата, трясущего частицы. *(Подробнее: [cta_de_broglie_tragedy_and_medium.md](articles/cta_de_broglie_tragedy_and_medium.md))*
+4. **Осборн Рейнольдс:** предложил модель Вселенной как сверхплотной упаковки твёрдых гладких сфер без трения, из дефектов которой рождаются вещество и гравитация. *(Подробнее: [cta_reynolds_tragedy_and_medium.md](articles/cta_reynolds_tragedy_and_medium.md))*
+5. **Дэвид Бом:** выделил «квантовый потенциал» и пришёл к идее «импликативного порядка» — океана непрерывного движения. *(Подробнее: [cta_bohm_tragedy_and_medium.md](articles/cta_bohm_tragedy_and_medium.md))*
 
 ### 2. Сводная матрица преемственности
 
@@ -2497,11 +2497,11 @@ The idea of a material medium did not vanish in the 1920s; major 20th-century ph
 
 ### 1. Map of the Pentalogy
 
-1. **Erwin Schrödinger:** Formulated wave equations for real elastic media; the "cat" highlighted the absurdity of probability interpretations. *(See: [cta_schrodinger_tragedy_and_medium.md](cta_schrodinger_tragedy_and_medium.md))*
-2. **Albert Einstein:** Acknowledged space requires an ether and rejected dice-playing quantum mechanics, despite turning to empty-space geometry. *(See: [cta_einstein_tragedy_and_medium.md](cta_einstein_tragedy_and_medium.md))*
-3. **Louis de Broglie:** Proposed a "subquantum medium" and a thermostat model shaking particles beneath wave phenomena. *(See: [cta_de_broglie_tragedy_and_medium.md](cta_de_broglie_tragedy_and_medium.md))*
-4. **Osborne Reynolds:** Modeled the universe as an ultra-dense packing of frictionless rigid spheres generating gravity and matter. *(See: [cta_reynolds_tragedy_and_medium.md](cta_reynolds_tragedy_and_medium.md))*
-5. **David Bohm:** Introduced the "quantum potential" and the implicate order as an ocean of continuous motion. *(See: [cta_bohm_tragedy_and_medium.md](cta_bohm_tragedy_and_medium.md))*
+1. **Erwin Schrödinger:** Formulated wave equations for real elastic media; the "cat" highlighted the absurdity of probability interpretations. *(See: [cta_schrodinger_tragedy_and_medium.md](articles/cta_schrodinger_tragedy_and_medium.md))*
+2. **Albert Einstein:** Acknowledged space requires an ether and rejected dice-playing quantum mechanics, despite turning to empty-space geometry. *(See: [cta_einstein_tragedy_and_medium.md](articles/cta_einstein_tragedy_and_medium.md))*
+3. **Louis de Broglie:** Proposed a "subquantum medium" and a thermostat model shaking particles beneath wave phenomena. *(See: [cta_de_broglie_tragedy_and_medium.md](articles/cta_de_broglie_tragedy_and_medium.md))*
+4. **Osborne Reynolds:** Modeled the universe as an ultra-dense packing of frictionless rigid spheres generating gravity and matter. *(See: [cta_reynolds_tragedy_and_medium.md](articles/cta_reynolds_tragedy_and_medium.md))*
+5. **David Bohm:** Introduced the "quantum potential" and the implicate order as an ocean of continuous motion. *(See: [cta_bohm_tragedy_and_medium.md](articles/cta_bohm_tragedy_and_medium.md))*
 
 ### 2. Master Continuity Matrix
 
