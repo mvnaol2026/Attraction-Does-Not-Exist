@@ -2450,6 +2450,75 @@ $$G(R) = \frac{\beta \cdot P_0(R)}{4\pi}$$
 </details>
 
 <details>
+  <summary><b>Пятеро против пустоты: путеводитель по исторической пенталогии искателей среды в КТА
+</b></summary>
+
+## *(Five Against the Void: A Guide to the Historical Pentalogy of Medium-Seekers in QTA)*
+
+> *Обзорный путеводитель, объединяющий пять исторических работ репозитория Квантовой Теории Аолодинамики (КТА), посвященных Шрёдингеру, Эйнштейну, де Бройлю, Рейнольдсу и Бому. Полный текст статей и детализированное описание концепций доступны в соответствующих файлах репозитория.*
+
+**Language / Язык:** [🇷🇺 Русский](#ru) | [🇬🇧 English](#en)
+
+---
+
+<a name="ru"></a>
+## Русская версия 
+
+Идея материальной среды не исчезла бесследно в 1920-х годах: крупнейшие физики XX века вели скрытую и явную борьбу против победившего математического формализма, пытаясь вернуть в науку наглядный детерминизм. Историческая пенталогия КТА связывает их разрозненные поиски в единую логическую линию.
+
+### 1. Краткий обзор пенталогии
+
+1. **Эрвин Шрёдингер:** вывел уравнение как описание реальных упругих колебаний сплошной среды, а «кот в ящике» стал сарказмом над копенгагенской трактовкой вероятностного тумана. *(Подробнее: [cta_schrodinger_tragedy_and_medium.md](cta_schrodinger_tragedy_and_medium.md))*
+2. **Альберт Эйнштейн:** признавал немыслимость пространства без эфира и боролся с идеей «игры природы в кости» (мысленный эксперимент с «бочонком пороха»), хотя сам ушёл в геометрию пустоты. *(Подробнее: [cta_einstein_tragedy_and_medium.md](cta_einstein_tragedy_and_medium.md))*
+3. **Луи де Бройль:** в противовес волново-корпускулярному дуализму разработал концепцию «субквантовой среды» и скрытого термостата, трясущего частицы. *(Подробнее: [cta_de_broglie_tragedy_and_medium.md](cta_de_broglie_tragedy_and_medium.md))*
+4. **Осборн Рейнольдс:** предложил модель Вселенной как сверхплотной упаковки твёрдых гладких сфер без трения, из дефектов которой рождаются вещество и гравитация. *(Подробнее: [cta_reynolds_tragedy_and_medium.md](cta_reynolds_tragedy_and_medium.md))*
+5. **Дэвид Бом:** выделил «квантовый потенциал» и пришёл к идее «импликативного порядка» — океана непрерывного движения. *(Подробнее: [cta_bohm_tragedy_and_medium.md](cta_bohm_tragedy_and_medium.md))*
+
+### 2. Сводная матрица преемственности
+
+| Мыслитель | Что верно нащупал | В чём упёрся в тупик | Как решает КТА (Аолодинамика) |
+| :--- | :--- | :--- | :--- |
+| **О. Рейнольдс** (1902) | Упаковка твёрдых сфер; гравитация $1/r^2$. | Статичность среды, нехватка вычислительных мощностей. | Вибрационный зажим матрицы ($\approx 10^{13}\text{ Гц}$) + DEM-симуляторы. |
+| **А. Эйнштейн** (1920, 1935) | Необходимость среды; критика суперпозиции. | Отказ от субстанции в пользу кривизны пустоты. | Контактное экранирование вибраций вместо кривизны. |
+| **Э. Шрёдингер** (1926, 1935) | Волновые процессы в сплошной среде. | Проблема локализации волны в пустоте. | Дискретность контакта сжатых аолов и передача импульса. |
+| **Л. де Бройль** (1927, 1952) | Волна-пилот и вибрирующая субквантовая среда. | Сдался под давлением ортодоксальной школы. |  Пассивная материя, движение за счёт аольных клиньев среды. |
+| **Д. Бом** (1952, 1980) | Направляющий рельеф пространства и океан движения. | Многомерная $\psi$-функция и мистика нелокальности. | Реальный рельеф контактного давления аолов. |
+
+### Заключение
+
+Квантовая Теория Аолодинамики продолжает и завершает линию Рейнольдса, Эйнштейна, Шрёдингера, де Бройля и Бома, заменяя абстракции пустоты на механику плотной материальной среды.
+
+---
+
+<a name="en"></a>
+## 🇬🇧 English Version
+
+The idea of a material medium did not vanish in the 1920s; major 20th-century physicists fought against abstract formalism to preserve determinism. The QTA historical pentalogy unites their work into a single framework.
+
+### 1. Map of the Pentalogy
+
+1. **Erwin Schrödinger:** Formulated wave equations for real elastic media; the "cat" highlighted the absurdity of probability interpretations. *(See: [cta_schrodinger_tragedy_and_medium.md](cta_schrodinger_tragedy_and_medium.md))*
+2. **Albert Einstein:** Acknowledged space requires an ether and rejected dice-playing quantum mechanics, despite turning to empty-space geometry. *(See: [cta_einstein_tragedy_and_medium.md](cta_einstein_tragedy_and_medium.md))*
+3. **Louis de Broglie:** Proposed a "subquantum medium" and a thermostat model shaking particles beneath wave phenomena. *(See: [cta_de_broglie_tragedy_and_medium.md](cta_de_broglie_tragedy_and_medium.md))*
+4. **Osborne Reynolds:** Modeled the universe as an ultra-dense packing of frictionless rigid spheres generating gravity and matter. *(See: [cta_reynolds_tragedy_and_medium.md](cta_reynolds_tragedy_and_medium.md))*
+5. **David Bohm:** Introduced the "quantum potential" and the implicate order as an ocean of continuous motion. *(See: [cta_bohm_tragedy_and_medium.md](cta_bohm_tragedy_and_medium.md))*
+
+### 2. Master Continuity Matrix
+
+| Thinker | Key Intuition | Dead End | QTA Resolution |
+| :--- | :--- | :--- | :--- |
+| **O. Reynolds** (1902) | Packed rigid spheres; $1/r^2$ gravity. | Static medium, lack of computation. | Vibrational matrix clamping ($\approx 10^{13}\text{ Hz}$) + DEM models. |
+| **A. Einstein** (1920, 1935) | Space requires a medium; critique of superposition. | Rejection of substance for void curvature. | Contact vibration shielding instead of geometry. |
+| **E. Schrödinger** (1926, 1935) | Continuous medium waves. | Explaining wave collapse in a void. | Discrete mechanical contact and impulse transmission. |
+| **L. de Broglie** (1927, 1952) | Pilot wave and vibrating subquantum medium. | Yielded to orthodox pressure. | Passive matter driven by rear-tightening aol wedges of the medium. |
+| **D. Bohm** (1952, 1980) | Guiding spatial landscape and ocean of motion. | Multi-dimensional $\psi$-function non-locality. | Real baric pressure landscape of aols. |
+
+### Conclusion
+
+QTA synthesizes the incomplete medium-based insights of these five theorists into a unified, deterministic mechanics of a dense physical matrix.
+</details>
+
+<details>
   <summary><b>Архитектор пустоты, тосковавший по среде: научная драма Альберта Эйнштейна и её развязка в аолодинамике
 </b></summary>
 
