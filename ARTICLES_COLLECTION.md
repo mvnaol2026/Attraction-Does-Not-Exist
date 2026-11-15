@@ -2455,6 +2455,10 @@ $$G(R) = \frac{\beta \cdot P_0(R)}{4\pi}$$
 
 ---
 
+**Language:** [🇬🇧 English](#en)
+
+---
+
 В массовом сознании Альберт Эйнштейн — безусловный триумфатор, человек, который в одиночку перевернул физику, отменил эфир, искривил пространство-время и открыл дверь в квантовую эру. Но за фасадом величайшего научного авторитета XX века скрывается глубокая личная и интеллектуальная драма. Последние тридцать лет жизни Эйнштейн провёл в научном одиночестве, пытаясь исправить последствия собственных революций 1905 года и вернуть физике то, что сам же у неё отнял — **объективную, детерминированную реальность и материальную среду взаимодействия**.
 
 ---
@@ -2526,6 +2530,7 @@ $$G(R) = \frac{\beta \cdot P_0(R)}{4\pi}$$
 
 ---
 
+<a name="en"></a>
 ## English Version
 
 In the popular imagination, Albert Einstein is an undisputed triumphator—the man who single-handedly revolutionized physics, abolished the ether, curved spacetime, and opened the door to the quantum era. Yet behind the facade of the twentieth century's greatest scientific authority lies a deep personal and intellectual drama. Einstein spent the last thirty years of his life in scientific solitude, trying to undo the consequences of his own 1905 revolutions and restore to physics what he himself had taken away from it—**an objective, deterministic reality and a material medium of interaction**.
@@ -2604,6 +2609,10 @@ Throughout his life, Einstein intuitively felt that behind the probabilistic for
 
 ---
 
+**Language:** [🇬🇧 English](#en)
+
+---
+
 В массовой культуре Эрвин Шрёдингер навсегда остался человеком, который запер кота в ящик с ядом, чтобы показать, как удивительно устроен квантовый мир. Но реальная история австрийского физика полна горькой иронии. Он не только не любил своего знаменитого «кота», но и до конца жизни боролся с той самой квантовой механикой, фундамент которой сам же и заложил.
 
 ---
@@ -2677,6 +2686,7 @@ Throughout his life, Einstein intuitively felt that behind the probabilistic for
 
 ---
 
+<a name="en"></a>
 ## English Version
 
 In popular culture, Erwin Schrödinger has forever remained the man who locked a cat in a box with poison to show how bizarre the quantum world is. Yet the real story of the Austrian physicist is steeped in bitter irony. Not only did he dislike his famous "cat," but he spent the rest of his life fighting against the very quantum mechanics whose foundation he had laid himself.
