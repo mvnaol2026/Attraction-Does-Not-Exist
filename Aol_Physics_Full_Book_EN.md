@@ -1,10 +1,3 @@
----
-type: full_monolith_book
-language: en
-notice: This file contains the complete text of the book "Gravity Does Not Exist" in a single document for end-to-end AI analysis and sequential reading.
----
-
-
 # ATTRACTION DOES NOT EXIST
 ## AOL PHYSICS. THE STRUCTURE OF THE PHYSICAL WORLD
 
