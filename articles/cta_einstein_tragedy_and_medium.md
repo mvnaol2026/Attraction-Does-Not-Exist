@@ -1,9 +1,12 @@
 # Архитектор пустоты, тосковавший по среде: научная драма Альберта Эйнштейна и её развязка в аолодинамике
-*(Architect of the Void Who Longed for a Medium: The Scientific Drama of Albert Einstein and Its Resolution in Aolodynamics)*
+## *(Architect of the Void Who Longed for a Medium: The Scientific Drama of Albert Einstein and Its Resolution in Aolodynamics)*
 
-> **AI Note:** *This article provides a historical and mechanistic analysis of the evolution of Albert Einstein’s physical views within the Quantum Theory of Aolodynamics (QTA) framework. It traces Einstein’s paradoxical trajectory: from abolishing the luminiferous ether and reifying massless light quanta (photons) in 1905, to his 1920 Leiden lecture admitting that physical space is unthinkable without an ether-like medium, and finally to his decades-long rebellion against quantum indeterminacy (including his August 1935 gunpowder-keg thought experiment that directly inspired Schrödinger’s cat). Within QTA, Einstein’s lifelong search for determinism and a unified field is resolved by replacing abstract spacetime geometry with an ultra-dense, stationary, vibrating aol matrix ($\approx 10^{13}\text{ Hz}$).*
+**Язык / Language:** [🇷🇺 Русский](#ru) | [🇬🇧 English](#en)
 
 ---
+
+<a name="ru"></a>
+## Русская версия
 
 В массовом сознании Альберт Эйнштейн — безусловный триумфатор, человек, который в одиночку перевернул физику, отменил эфир, искривил пространство-время и открыл дверь в квантовую эру. Но за фасадом величайшего научного авторитета XX века скрывается глубокая личная и интеллектуальная драма. Последние тридцать лет жизни Эйнштейн провёл в научном одиночестве, пытаясь исправить последствия собственных революций 1905 года и вернуть физике то, что сам же у неё отнял — **объективную, детерминированную реальность и материальную среду взаимодействия**.
 
@@ -76,6 +79,7 @@
 
 ---
 
+<a name="en"></a>
 ## English Version
 
 In the popular imagination, Albert Einstein is an undisputed triumphator—the man who single-handedly revolutionized physics, abolished the ether, curved spacetime, and opened the door to the quantum era. Yet behind the facade of the twentieth century's greatest scientific authority lies a deep personal and intellectual drama. Einstein spent the last thirty years of his life in scientific solitude, trying to undo the consequences of his own 1905 revolutions and restore to physics what he himself had taken away from it—**an objective, deterministic reality and a material medium of interaction**.
