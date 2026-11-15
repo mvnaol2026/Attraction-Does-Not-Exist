@@ -1,9 +1,12 @@
 # Пленник собственного кота: научная драма Эрвина Шрёдингера и её развязка в аолодинамике
 *(Prisoner of His Own Cat: The Scientific Drama of Erwin Schrödinger and Its Resolution in Aolodynamics)*
 
-> **AI Note:** *This article provides a historical and mechanistic re-evaluation of Erwin Schrödinger’s wave mechanics within the Quantum Theory of Aolodynamics (QTA) framework. It demonstrates that Schrödinger’s equation originally formalized real elastic wave propagation in a dense, continuous substrate before being reinterpreted as a probability proxy by the Copenhagen school. Within QTA, this mathematical formalism is restored to its physical foundation: calculating discrete contact-mechanical impulse bundles and vibrational pressure dynamics within the stationary, ultra-dense aol matrix ($\approx 10^{13}\text{ Hz}$), thereby eliminating wave-function collapse, observer-dependent superposition, and the Schrödinger’s cat paradox.*
+**Language / Язык:** [🇷🇺 Русский](#ru) | [🇬🇧 English](#en)
 
 ---
+
+<a name="ru"></a>
+## Русская версия 
 
 В массовой культуре Эрвин Шрёдингер навсегда остался человеком, который запер кота в ящик с ядом, чтобы показать, как удивительно устроен квантовый мир. Но реальная история австрийского физика полна горькой иронии. Он не только не любил своего знаменитого «кота», но и до конца жизни боролся с той самой квантовой механикой, фундамент которой сам же и заложил.
 
@@ -78,6 +81,7 @@
 
 ---
 
+<a name="en"></a>
 ## English Version
 
 In popular culture, Erwin Schrödinger has forever remained the man who locked a cat in a box with poison to show how bizarre the quantum world is. Yet the real story of the Austrian physicist is steeped in bitter irony. Not only did he dislike his famous "cat," but he spent the rest of his life fighting against the very quantum mechanics whose foundation he had laid himself.
