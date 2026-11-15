@@ -78,7 +78,7 @@
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 In popular culture, Erwin Schrödinger has forever remained the man who locked a cat in a box with poison to show how bizarre the quantum world is. Yet the real story of the Austrian physicist is steeped in bitter irony. Not only did he dislike his famous "cat," but he spent the rest of his life fighting against the very quantum mechanics whose foundation he had laid himself.
 
