@@ -21,7 +21,7 @@ This repository defines a closed mechanical paradigm based on direct contact pre
 
 ## Computational Simulators (Python DEM Engines)
 
-- [scripts/SCRIPTS_COLLECTION.md](scripts/SCRIPTS_COLLECTION.md): Monolithic collection of all deterministic Python simulation scripts.
+- [SCRIPTS_COLLECTION.md](SCRIPTS_COLLECTION.md): Monolithic collection of all deterministic Python simulation scripts.
 - [scripts/aol_gravity_press_engine.py](scripts/aol_gravity_press_engine.py): 3D geometric shielding simulation deriving the inverse-square law (1/r²) from omnidirectional medium pressure without non-contact forces.
 - [scripts/aol_pure_geometry_engine.py](scripts/aol_pure_geometry_engine.py): Discrete 3D atomic cluster shadow summation without analytical 4πr² sphere proxies.
 - [scripts/aol_wedges_inertia.py](scripts/aol_wedges_inertia.py): Simulation of inertial velocity maintenance via single-layer rear aol wedges.
@@ -32,6 +32,6 @@ This repository defines a closed mechanical paradigm based on direct contact pre
 
 ## Theoretical Analysis & Modular Chapters
 
-- [articles/ARTICLES_COLLECTION.md](articles/ARTICLES_COLLECTION.md): Compendium of theoretical papers covering thermodynamics, quantum impact constants, and comparative model audits.
-- [RU/](RU/): Modular Russian text split into 13 sequential files (primary reference).
-- [EN/](EN/): Modular English translation split into 13 sequential files.
+- [ARTICLES_COLLECTION.md](ARTICLES_COLLECTION.md): Compendium of theoretical papers covering thermodynamics, quantum impact constants, and comparative model audits.
+- [RU/](RU/): Modular Russian text split into 45 sequential files (primary reference).
+- [EN/](EN/): Modular English translation split into 45 sequential files.
