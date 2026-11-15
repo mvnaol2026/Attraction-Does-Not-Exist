@@ -1,7 +1,7 @@
 # ATTRACTION DOES NOT EXIST
 ## AOL PHYSICS. THE STRUCTURE OF THE PHYSICAL WORLD
 
-**Author:** Vyacheslav, M.V.N. (mvnaol2026)
+**Author:** Vyacheslav, M.V.N. (mvnaol2026)    
 **Location:** Kyiv, Ukraine
 
 
