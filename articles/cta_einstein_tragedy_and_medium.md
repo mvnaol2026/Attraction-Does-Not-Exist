@@ -73,3 +73,77 @@
 ### Итог
 
 Эйнштейн всю жизнь интуитивно чувствовал, что за вероятностными формулами квантовой механики должна скрываться строгая, детерминированная и единая реальность. Он искал Единую теорию поля, пытаясь выжать физику из чистой геометрии пустоты — тогда как искомое единство микро- и макромира лежит в единой механике плотной материальной среды.
+
+---
+
+## English Version
+
+In the popular imagination, Albert Einstein is an undisputed triumphator—the man who single-handedly revolutionized physics, abolished the ether, curved spacetime, and opened the door to the quantum era. Yet behind the facade of the twentieth century's greatest scientific authority lies a deep personal and intellectual drama. Einstein spent the last thirty years of his life in scientific solitude, trying to undo the consequences of his own 1905 revolutions and restore to physics what he himself had taken away from it—**an objective, deterministic reality and a material medium of interaction**.
+
+---
+
+### 1. 1905: Two Fatal Shots Fired at Mechanistic Physics
+
+In his famous "miracle year" (1905), the 26-year-old patent office examiner in Bern took two steps that defined the entire trajectory of twentieth-century physics—and planted a time bomb beneath its physical visualizability.
+
+* **Abolition of the medium.** In his paper on special relativity, Einstein declared the luminiferous ether "superfluous." Instead of figuring out how a real dense medium is structured (and why the Michelson–Morley experiment yielded a null result), physics simply factored the medium out of the equations, leaving bodies to fly through an absolute geometric void.
+* **Birth of the "flying phantom."** In his paper on the photoelectric effect, Einstein went further than his mentor Max Planck. Whereas Planck viewed quantization merely as a mathematical convenience during the emission and absorption of light by atoms, Einstein proclaimed that light *itself* consists of autonomous packets of energy—quanta (later named photons)—that fly through empty space as independent particles possessing zero rest mass.
+
+It was at this exact moment that physics veered off the tracks of contact mechanics onto the path of mathematical instrumentalism: instead of an elastic impulse being transmitted down a chain of material carriers, massless particles moving through nothingness took center stage.
+
+---
+
+### 2. 1920: The Quiet Return of the Ether in the Leiden Lecture
+
+Few in popular science like to recall that Einstein himself very quickly recognized the logical emptiness of a world without a medium. Having formulated the General Theory of Relativity (GR) in 1915, he confronted a fundamental question: if gravity is the curvature of spacetime, then **what exactly is being curved?** An absolute void cannot possess elasticity, curvature, or the capacity to guide the motion of planets.
+
+On May 5, 1920, at Leiden University, Einstein delivered a programmatic address titled **"Ether and the Theory of Relativity,"** in which he effectively disavowed his own radicalism of 1905:
+
+> *"According to the general theory of relativity, space is unthinkable without ether; for in such space there not only would be no propagation of light, but also no possibility of existence for standards of space and time (measuring-rods and clocks)..."*
+
+Yet Einstein could not bring himself to take the final step—acknowledging this "ether" as a real dense medium composed of discrete material elements. Handcuffed by his own postulate forbidding mechanical motion relative to a medium, he attributed the properties of a material agent to **pure geometry** (the metric tensor). The medium returned to physics, but only as a mathematical abstraction stripped of substance.
+
+---
+
+### 3. 1927–1935: Rebellion Against His Own Creation and the "Gunpowder Keg"
+
+By the late 1920s, the genie Einstein had released in 1905 had slipped completely out of control. Niels Bohr, Werner Heisenberg, and Max Born built the Copenhagen interpretation atop the foundation of light quanta. Within it, no room remained for objective reality or strict causality: particles turned into "probability waves" that acquired coordinates only at the moment an observer looked at them.
+
+Einstein was horrified. He never believed that nature could be run like a casino, throwing his famous remark at Bohr: **"God does not play dice"** (to which Bohr irritably replied: *"Einstein, stop telling God what to do"*).
+
+At the Solvay Conferences of 1927 and 1930, Einstein devised one brilliant thought experiment after another, attempting to catch the Copenhagen school in a logical contradiction. Then, in the summer of 1935, in his correspondence with Erwin Schrödinger, he delivered his most vivid blow.
+
+In a letter dated **August 8, 1935**, Einstein described a thought experiment involving an unstable keg of gunpowder:
+* Suppose we have a keg of chemically unstable gunpowder that has a 50% probability of spontaneously exploding within a year.
+* Initially, the wave function describes a perfectly comprehensible state—an intact keg.
+* Yet after a year, according to the equations of quantum mechanics, the system transitions into an absurd superposition: the wave function describes simultaneously **both an unexploded keg and an exploded keg** (a pile of ash and gases).
+* By Einstein's logic, no sane person would believe that a macroscopic keg of gunpowder is smeared between an intact and an exploded state until someone peers into the shed.
+
+This "Einstein's gunpowder keg" became the direct prototype for the famous cat: just eleven days later, on **August 19, 1935**, a delighted Schrödinger wrote back to Einstein, replacing the gunpowder with a flask of hydrocyanic acid and the explosion with a living cat.
+
+---
+
+### 4. The Tragedy of His Views: A Genius Trapped in His Own Abstractions
+
+The final thirty years of Einstein's life present a remarkably poignant picture:
+
+1. **A prophet rejected by his own flock.** The younger generation of theoretical physicists viewed the aging Einstein as a living monument who had hopelessly fallen behind progress. His demand to restore strict determinism and visualizable causality to physics was dismissed as elderly conservatism.
+2. **Hunting for a "Unified Field Theory" in the void.** Einstein understood that the rift between gravity (GR) and the micro-world (quantum mechanics) was unnatural, and until his death in 1955 he tried to merge them into a Unified Field Theory. However, he sought this unity by complicating the differential geometry of empty spacetime—and inevitably hit a dead end.
+3. **Hostage to the step of 1905.** Einstein's central paradox was that he **desperately needed a material medium** to explain the propagation of light, gravity, and the determinism of the micro-world—yet he had blocked his own path to it by abandoning the substantial ether at the very beginning of his journey.
+
+---
+
+### 5. The QTA Perspective: Resolving Einstein's Paradox
+
+From the standpoint of the **Quantum Theory of Aolodynamics (QTA)**, Albert Einstein's decades-long search and doubts receive an exhaustive mechanistic resolution:
+
+1. **Restoring substance in place of "curved geometry."** Einstein was completely right in his 1920 Leiden lecture: space without a material medium is physically impossible. Yet instead of curving an abstract coordinate grid, QTA operates with a real material substrate—an **ultra-dense packing of passive spherical aols** under permanent vibrational clamping ($\approx 10^{13}\text{ Hz}$). Gravity is not the curvature of a void (which generates the unsolvable 3D "three-dimensional hedgehog" paradox), but pure mechanical pressing of bodies within the geometric shadow zone of medium-vibration shielding.
+2. **Canceling the "flying photon" of 1905.** Einstein's misstep with the light quantum is corrected by returning to Planck's concept of a discrete impact: a quantum is not a massless particle flying through a vacuum at $300,000\text{ km/s}$ without acceleration, but a **discrete mechanical impulse** transmitted down a chain of tightly compressed aols like a Newton's cradle. Light is quantized because an elastic mechanical strike against a medium carrier cannot occur "halfway."
+3. **Answering the "gunpowder keg."** In the world of contact aolodynamics, Einstein wins his debate with Bohr hands down: nature genuinely **does not play dice**. Unstable gunpowder (or a radioactive atom) does not linger in a mystical superposition. Its structural rearrangement occurs at the strictly determined instant when a local peak in the background oscillations of the aol matrix ($\approx 10^{13}\text{ Hz}$) exceeds the mechanical locking threshold of a specific molecular LEGO-structure. Everything is deterministic, contact-based, and happens without any involvement of an observer.
+
+---
+
+### Conclusion
+
+Throughout his life, Einstein intuitively felt that behind the probabilistic formulas of quantum mechanics must lie a strict, deterministic, and unified reality. He searched for a Unified Field Theory by trying to squeeze physics out of the pure geometry of emptiness—whereas the sought-after unity of the micro- and macro-worlds resides in the single mechanics of a dense material medium.
+
