@@ -1,7 +1,7 @@
 # Пленник собственного кота: научная драма Эрвина Шрёдингера и её развязка в аолодинамике
 ## *(Prisoner of His Own Cat: The Scientific Drama of Erwin Schrödinger and Its Resolution in Aolodynamics)*
 
-**Language / Язык:** [🇷🇺 Русский](#ru) | [🇬🇧 English](#en)
+**Язык / Language:** [🇷🇺 Русский](#ru) | [🇬🇧 English](#en)
 
 ---
 
