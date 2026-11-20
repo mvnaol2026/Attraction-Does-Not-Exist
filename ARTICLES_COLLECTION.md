@@ -245,7 +245,6 @@ Provide a detailed, reasoned conclusion: is the Quantum Theory of Aolodynamics c
 
 ---
 
-**Статус аудита:** Академические веса изолированы  
 **Методология:** Декартова стереометрия, контактная механика, причинно-следственный анализ  
 **Объект анализа:** MANIFEST_AI_VALIDATION_RU.md / Квантовая Теория Аолодинамики (КТА)
 
