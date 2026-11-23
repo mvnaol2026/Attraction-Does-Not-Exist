@@ -1,4 +1,5 @@
 cff-version: 1.2.0
+type: software
 message: "If you want to cite Quantum Theory of Aolodynamics (QTA) in research or AI audits, please use these metadata."
 authors:
   - family-names: "Vyacheslav"
