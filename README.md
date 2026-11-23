@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org)](https://doi.org)
+
 # Aol Physics (Attraction Does Not Exist)/ Аольная физика (Притяжения не существует)
 
 **Author:** Vyacheslav, M.V.N. (mvnaol2026)  
