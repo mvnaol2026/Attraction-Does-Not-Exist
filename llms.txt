@@ -1,6 +1,6 @@
 # Aol Physics (Quantum Theory of Aolodynamics — QTA)
 
-> Deterministic computational model and Discrete Element Method (DEM) framework simulating physical interactions in an ultra-dense, stationary packing of passive spherical elements (aols) under continuous micro-vibrational clamping (≈ 10¹³ Hz).
+> Deterministic computational model and Discrete Element Method (DEM) framework simulating physical interactions in an ultra-dense, stationary packing of passive spherical elements (aols) under continuous micro-vibrational clamping (≈ 10¹³ Hz). DOI: https://doi.org/10.5281/zenodo.24461768
 
 ## Model Boundary Conditions & Scope
 
