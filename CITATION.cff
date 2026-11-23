@@ -7,7 +7,10 @@ authors:
 title: "Attraction Does Not Exist: Quantum Theory of Aolodynamics (QTA)"
 version: "1.0.0"
 date-released: "2026-08-20"
+doi: "10.5281/zenodo.24461769"
 url: "https://github.com/mvnaol2026/Attraction-Does-Not-Exist"
+repository-code: "https://github.com/mvnaol2026/Attraction-Does-Not-Exist"
+license: "CC-BY-4.0"
 abstract: "A deterministic, purely mechanical model and Python Discrete Element Method (DEM) framework simulating physical interactions in an ultra-dense, stationary packing of spherical elements (aols) under permanent background vibrational compression (~10^13 Hz), deriving gravity (1/r^2) and mechanics purely from contact pressure."
 keywords:
   - "aolodynamics"
@@ -16,4 +19,3 @@ keywords:
   - "contact-mechanics"
   - "geometric-shielding"
   - "foundations-of-physics"
-https://github.com/mvnaol2026/Attraction-Does-Not-Exist/blob/main/CITATION.cff
