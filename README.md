@@ -1,6 +1,5 @@
-[![DOI](https://zenodo.org/badge/github/1248362303.svg)](https://doi.org/10.5281/zenodo.24461768)     
+[![DOI](https://shields.io/badge/DOI-10.5281%2Fzenodo.24461768-blue.svg)](https://doi.org/10.5281/zenodo.24461768)    
 *Archived in **Zenodo** (CERN) / Архивная версия зарегистрирована в **Zenodo** (CERN)*    
-[![DOI](https://shields.io/badge/DOI-10.5281%2Fzenodo.24461768-blue.svg)](https://doi.org/10.5281/zenodo.24461768)
 
 # Aol Physics (Attraction Does Not Exist)/ Аольная физика (Притяжения не существует)
 
