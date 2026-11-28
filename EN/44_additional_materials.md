@@ -161,7 +161,6 @@ In aolodynamics, the geometry of space is strictly Cartesian and immutable. Ther
 
 **The Cause of Discreteness.** The discreteness of a quantum is entirely determined by the very nature of a mechanical impact. An elastic contact in an ultra-dense medium cannot be transmitted "halfway": the impulse of a collision is either translated along the chain of aols in its entirety, or it is not transmitted at all. To put it simply — the micro-impact either exists, or it does not.
 
-
 **Electric Current** is a helical, directional movement of a chain of particles (an aol "snake") through natural clear passages inside the crystal lattice of a conductor. The corrugation of this snake causes mechanical micro-displacements of the conductor's atoms (their alternating indentation and extrusion), which sharply increases their internal vibration. This releases heat — up to the incandescence or melting of the metal at high currents.    
 **•	Electrical Resistance.** This very same corrugation is the cause of resistance: a lattice atom that falls into an intersegmental recess of the snake temporarily decelerates its motion like an anchor.    
 **•	Dielectrics and Breakdown.** In dielectrics, there are no clear through-channels, so the aol "snake" there is physically chopped into isolated parts. Under extreme pressure, these passages are forcibly broken through, which is recorded as a dielectric breakdown.    
@@ -212,6 +211,95 @@ The world is fundamentally unified. The division of physics into a microworld an
 **•	The Final Outcome:** All types of dynamics declared by official science are fundamentally nothing but **AOLODYNAMICS**.    
 
 **P.S.** This axiomatic framework of Aol Physics is monumental and not subject to revision. At the same time, the entire superstructure — from the geometry of specific microstructures to macroscopic consequences and simulation algorithms — is an open architecture. It requires large-scale theoretical development, refinement, and verification. This is a colossal field of work for decades to come, and I invite thinking logicians, physicists, programmers, as well as AI to join in the collaborative construction of this new physical worldview.
+
+
+
+
+
+# The Third Pillar of Physics: ACTION. From the Mysticism of Fields to the Reality of Contact
+
+## Introduction
+
+If we strip away verbal fluff and multi-layered mathematical abstractions, all real physics rests upon three unshakable pillars—three foundational categories of the Universe:
+1. **MATTER** — that which physically and substantially exists in space.
+2. **MOTION** — the forced displacement and reconfiguration of matter.
+3. **ACTION** — the sole mechanism by which motion is transmitted from one portion of matter to another.
+
+Within the framework of the **Quantum Theory of Aolodynamics (QTA)**, the first two pillars acquire a rigorous, self-consistent physical meaning. In mainstream science, however, both of these fundamental concepts have been distorted into catastrophic absurdity. **Matter** has been replaced by mysticism: the immaterial "nothingness" of abstract fields somehow condenses into "clumps of fields" (quanta, particles) and is presented as real substance. Meanwhile, **Motion** has been mutilated by the dogma of "intrinsic inertia"—the absurd belief that passive bodies can somehow fly through an empty void "on their own," without a continuous external Prime Mover.
+
+Yet mainstream physics signed its final confession of helplessness on the **third pillar—the nature of Action**, degenerating from a science of nature into a collection of mathematical tricks.
+
+Matter is inherently and completely passive. It possesses neither intelligence, nor a desire to move, nor the ability to "sense" a neighbor at a distance. For one material body to displace another, an **Action** must occur between them. Throughout the history of human thought, there have been only three possible answers to how this happens:
+1. **Action-at-a-distance** (outright mysticism contradicting common sense).
+2. **Contactless "short-range action" (proximity action)** (a logical dead end institutionalized as modern scientific dogma).
+3. **CONTACT** (the sole physical reality).
+
+Let us examine each of these options without deference to authority.
+
+---
+
+## 1. Action-at-a-Distance: Outright Mysticism
+
+The concept of action-at-a-distance asserts that one body can act upon another instantaneously, directly across an absolute void, without any material intermediary between them. This is how Newton's law of universal gravitation is still taught in textbooks: the Sun "pulls" the Earth across millions of kilometers of empty space.
+
+From the standpoint of common sense and elementary mechanics, this is **outright mysticism contradicting the basic laws of nature**.
+* To push a cart, one must brace against it.
+* To pull a boat to shore, one must tension a material rope.
+
+If *nothing* (a void) lies between two bodies, neither a push nor a pull can be transmitted through that *nothing*. Isaac Newton himself clearly recognized this absurdity, explicitly writing that the idea of one body acting upon another through a vacuum without mediation is the greatest of absurdities. Yet his followers chose to "shut up and count," legalizing magic inside equations.
+
+---
+
+## 2. Contactless "Short-Range Action": The Logical Dead End of Mainstream Science
+
+Realizing that outright action-at-a-distance was mocked by basic logic, mainstream physics executed a clever maneuver in the 19th and 20th centuries. It solemnly declared: *"Action-at-a-distance is dead! We have transitioned to the principle of short-range (local) action!"*
+
+The essence of this "new" principle boiled down to two appealing hypotheses:
+1. **The Concept of "Fields" (Faraday — Maxwell — Einstein):** Body A does not act on Body B directly; instead, it allegedly creates a "field" around itself that propagates from point to point at the speed of light and acts upon Body B at close range.
+2. **The Concept of "Carrier Exchange" (Quantum Field Theory):** Particles do not pull each other directly; they exchange virtual carrier quanta (photons, gluons, gravitons), like two ice skaters tossing a ball back and forth.
+
+At first glance, this sounds respectable. Yet one need only ask a single, simple engineering question—**"Does a rigid mechanical contact of surfaces occur during this process?"**—and the entire edifice of mainstream science collapses like a house of cards.
+
+**Why contactless "short-range action" is the exact same logical dead end, merely shrunk to the micro-scale:**
+* **The "Continuous Field" Trap:** What is a "field" materially? Which specific rigid carriers compose it? If it consists of particles, how do those particles transfer momentum to each other without touching? And if the field is immaterial (merely a set of numbers and vectors assigned to points in empty space), then transmitting action "from point to point" across a void is **the exact same action-at-a-distance**, merely sliced into billions of microscopic steps. A distance of $10^{-15}$ meters across a void is just as impassable for momentum transfer as a distance of $10^{15}$ meters.
+* **The "Particle Exchange" Trap:** Suppose two electrons toss photons at each other. To throw a ball and experience recoil, a hand must *brace* against the ball (make contact!), and to catch it, the ball must *strike* the palm. Yet in mainstream physics, particles and photons are considered "massless" and "point-like" (having zero volume and no solid boundary), making physical collision impossible—they must pass right through each other like ghosts. Moreover, tossing balls can only explain repulsion, never attraction!
+
+Thus, the **contactless "short-range action"** accepted in modern science is pure verbal camouflage. Scientists merely replaced the word "miracle" with the words "field" and "quantum," leaving the exact same contactless void at the foundation.
+
+---
+
+## 3. CONTACT: The Only Real Physics
+
+Once we discard the mysticism of action-at-a-distance and the verbal gymnastics of contactless local action, there remains **only one physically possible mechanism for material interaction—direct mechanical CONTACT**.
+
+Within the Quantum Theory of Aolodynamics (QTA), the concept of Action is restored to the solid ground of reality:
+1. **Absolute Congestion Instead of Void:** The entire Universe is filled without remainder by an ultra-dense packing of passive spherical primary elements—**aols**. There are no empty gaps between them across which action would need to "jump."
+2. **Geometry of Impenetrability:** Every aol possesses a rigid surface and finite volume. Two material elements cannot occupy the same coordinates in Cartesian space. Therefore, when one element is displaced by medium pressure, it **directly braces** against its neighbor and squeezes it forward.
+3. **The Impact Relay:** Every motion in the world—from atomic oscillation to planetary flight or a wave of light—is transmitted exclusively along a chain of tightly compressed contacts (following Newton's cradle kinematics). No contact, no pressure. No pressure, no motion.
+
+Here the unbreakable **Triad of Aol Physics** closes its loop:
+
+$$\textbf{Matter (carriers)} \longrightarrow \textbf{Contact (action)} \longrightarrow \textbf{Pressure and Motion}$$
+
+---
+
+## Comparison of the Three Concepts of Action
+
+| Criterion | Action-at-a-Distance | Contactless "Short-Range Action" (Mainstream Science) | CONTACT (QTA) |
+| :--- | :--- | :--- | :--- |
+| **Medium between bodies** | Absolute void | Void filled with abstract "fields" | Ultra-dense matrix of passive aols (no void) |
+| **Transmission mechanism** | Instantaneous miracle across distance | Point-to-point transfer without physical touch | Direct mechanical bracing of rigid surfaces |
+| **Are "charges" and "forces" needed?** | Yes, as innate magic of matter | Yes, as properties of fields and quanta | No, pure geometry of impenetrability operates |
+| **Physical status** | Outright mysticism | Logical dead end (mathematical camouflage) | The sole objective reality |
+
+---
+
+## Brief Conclusion
+
+Mainstream physics spent centuries trying to escape naive "action-at-a-distance," only to stop halfway, trapped in the logical dead end of **contactless "short-range action."** Any attempt to explain material interaction across a void—whether over a light-year or across the diameter of an atom—is doomed to fail, because emptiness can neither push nor hold.
+
+The third pillar of physics—**ACTION**—exists in Nature in only one form: **direct mechanical CONTACT** of densely packed matter. Only by recognizing contact as the sole means of transmitting motion does physics cease to be a religion of abstract formulas and become once again an honest science of the real world.
+
 
 
 
